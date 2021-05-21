@@ -1,0 +1,19 @@
+
+\chapter{Analyse}
+das ist eine main Überschrift
+
+
+\section{Begriffsklärung}
+das ist eine subÜberschrift
+
+
+\begin{figure}[ht!]
+	\centering
+	\includegraphics[width=100mm]{nachhaltig.jpg}
+	\caption{Die drei Aspekte der Nachhaltigkeit\cite{oekologischeN} \label{overflow}}
+\end{figure} 
+das ist eine Bildquelle
+
+
+\cite{smartContract}
+so gibt man quelle an 
