@@ -1,0 +1,36 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Grundlagen der \"Okologischen Nachhaltigkeit}{2}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Technologische Grundlagen der Blockchain-Technologie}{4}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Mehr als nur Bitcoin}{4}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Zentral vs Dezentral}{4}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Smart Contracts}{6}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Konsensalgorithmus}{6}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Chancen und Risiken}{7}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Risiko 1}{7}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Risiko 2}{7}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Lieferketten Transparenz}{7}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Chance 2}{9}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Fazit}{10}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{I}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Onlinereferenzen}{II}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Bildreferenzen}{III}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Eigenst\"andigkeitserkl\"arung}{IV}{chapter*.8}%

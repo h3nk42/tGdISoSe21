@@ -1,0 +1,443 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{lieferkette}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
+           family={Bocek},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \strng{fullhash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \strng{bibnamehash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \strng{authorbibnamehash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \strng{authornamehash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \strng{authorfullhash}{d4ad7ca3834f80739b440f8ef6ac590b}
+      \field{labelalpha}{Boc19}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lieferketten dank Blockchain überwachen}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zora.uzh.ch/id/eprint/184622/1/09_Bocek_Stiller_DE.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.zora.uzh.ch/id/eprint/184622/1/09_Bocek_Stiller_DE.pdf
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{oekologischeN}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b810a9bc174fb733a33e7aa80abdddca}{%
+           family={Dréo},
+           familyi={D\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b810a9bc174fb733a33e7aa80abdddca}
+      \strng{fullhash}{b810a9bc174fb733a33e7aa80abdddca}
+      \strng{bibnamehash}{b810a9bc174fb733a33e7aa80abdddca}
+      \strng{authorbibnamehash}{b810a9bc174fb733a33e7aa80abdddca}
+      \strng{authornamehash}{b810a9bc174fb733a33e7aa80abdddca}
+      \strng{authorfullhash}{b810a9bc174fb733a33e7aa80abdddca}
+      \field{labelalpha}{Dré09}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Developpement durable}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Nachhaltigkeit#/media/Datei:Developpement_durable_de.svg
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Nachhaltigkeit#/media/Datei:Developpement_durable_de.svg
+      \endverb
+      \keyw{image}
+    \endentry
+    \entry{bitcoin}{online}{}
+      \name{author}{1}{}{%
+        {{hash=01614c9a20bf2aa76b88817068ed79a0}{%
+           family={DW},
+           familyi={D\bibinitperiod},
+           given={Insa\bibnamedelima Wrede},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{01614c9a20bf2aa76b88817068ed79a0}
+      \strng{fullhash}{01614c9a20bf2aa76b88817068ed79a0}
+      \strng{bibnamehash}{01614c9a20bf2aa76b88817068ed79a0}
+      \strng{authorbibnamehash}{01614c9a20bf2aa76b88817068ed79a0}
+      \strng{authornamehash}{01614c9a20bf2aa76b88817068ed79a0}
+      \strng{authorfullhash}{01614c9a20bf2aa76b88817068ed79a0}
+      \field{labelalpha}{DW21}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der unersättliche Stromfresser: Bitcoin}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.dw.com/de/energie-stromverbrauch-bitcoin-mining/a-56589030
+      \endverb
+      \verb{url}
+      \verb https://www.dw.com/de/energie-stromverbrauch-bitcoin-mining/a-56589030
+      \endverb
+      \keyw{online}
+      \warn{\item Entry 'bitcoin' (references/references.bib): Invalid format '2021-05-1' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{bitcoinWiki}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2321c04d9d95c0a9b9c05bc83d8b94d3}{%
+           family={economist},
+           familyi={e\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \strng{fullhash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \strng{bibnamehash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \strng{authorbibnamehash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \strng{authornamehash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \strng{authorfullhash}{2321c04d9d95c0a9b9c05bc83d8b94d3}
+      \field{labelalpha}{eco15}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The great chain of being sure about things}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things
+      \endverb
+      \verb{url}
+      \verb https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things
+      \endverb
+      \keyw{online}
+      \warn{\item Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{tesla}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9e0685b599cf0271fbe34255a41dfa82}{%
+           family={FAZ},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{fullhash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{bibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authorbibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authornamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authorfullhash}{9e0685b599cf0271fbe34255a41dfa82}
+      \field{labelalpha}{FAZ21}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla investiert 1,5 Milliarden Dollar in Bitcoin}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \endverb
+      \verb{url}
+      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{doi:nachhaltig}{article}{}
+      \name{author}{1}{}{%
+        {{hash=97075f424bdfe1e7b0af879a4646e03b}{%
+           family={Grober},
+           familyi={G\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{97075f424bdfe1e7b0af879a4646e03b}
+      \strng{fullhash}{97075f424bdfe1e7b0af879a4646e03b}
+      \strng{bibnamehash}{97075f424bdfe1e7b0af879a4646e03b}
+      \strng{authorbibnamehash}{97075f424bdfe1e7b0af879a4646e03b}
+      \strng{authornamehash}{97075f424bdfe1e7b0af879a4646e03b}
+      \strng{authorfullhash}{97075f424bdfe1e7b0af879a4646e03b}
+      \field{labelalpha}{Gro13}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natur und Landschaft}
+      \field{number}{2}
+      \field{title}{Urtexte – Carlowitz und die Quellen unseres Nachhaltigkeitsbegriffs}
+      \field{volume}{1}
+      \field{year}{2013}
+      \field{pages}{46}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.kohlhammer.de/wms/instances/KOB/appDE/Natur-und-Landschaft-88-2013-02
+      \endverb
+      \verb{url}
+      \verb https://www.kohlhammer.de/wms/instances/KOB/appDE/Natur-und-Landschaft-88-2013-02
+      \endverb
+    \endentry
+    \entry{vechain}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f00ea975780bafde2a5db61a9f835f68}{%
+           family={Hussey},
+           familyi={H\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f00ea975780bafde2a5db61a9f835f68}
+      \strng{fullhash}{f00ea975780bafde2a5db61a9f835f68}
+      \strng{bibnamehash}{f00ea975780bafde2a5db61a9f835f68}
+      \strng{authorbibnamehash}{f00ea975780bafde2a5db61a9f835f68}
+      \strng{authornamehash}{f00ea975780bafde2a5db61a9f835f68}
+      \strng{authorfullhash}{f00ea975780bafde2a5db61a9f835f68}
+      \field{labelalpha}{Hus19}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is VeChain?}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://decrypt.co/resources/vechain
+      \endverb
+      \verb{url}
+      \verb https://decrypt.co/resources/vechain
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{arpanet}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b9f9806583a06be6ff290de671271720}{%
+           family={internet},
+           familyi={i\bibinitperiod},
+           prefix={living},
+           prefixi={l\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9f9806583a06be6ff290de671271720}
+      \strng{fullhash}{b9f9806583a06be6ff290de671271720}
+      \strng{bibnamehash}{b9f9806583a06be6ff290de671271720}
+      \strng{authorbibnamehash}{b9f9806583a06be6ff290de671271720}
+      \strng{authornamehash}{b9f9806583a06be6ff290de671271720}
+      \strng{authorfullhash}{b9f9806583a06be6ff290de671271720}
+      \field{labelalpha}{int}
+      \field{sortinit}{i}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ARPANET – The First Internet}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{/}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.livinginternet.com/i/ii_arpanet.htm
+      \endverb
+      \verb{url}
+      \verb https://www.livinginternet.com/i/ii_arpanet.htm
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{catalonia}{online}{}
+      \name{author}{1}{}{%
+        {{hash=21e8a55a9d02014f3045096b745d6fae}{%
+           family={MALCOLM},
+           familyi={M\bibinitperiod},
+           given={JEREMY},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{21e8a55a9d02014f3045096b745d6fae}
+      \strng{fullhash}{21e8a55a9d02014f3045096b745d6fae}
+      \strng{bibnamehash}{21e8a55a9d02014f3045096b745d6fae}
+      \strng{authorbibnamehash}{21e8a55a9d02014f3045096b745d6fae}
+      \strng{authornamehash}{21e8a55a9d02014f3045096b745d6fae}
+      \strng{authorfullhash}{21e8a55a9d02014f3045096b745d6fae}
+      \field{labelalpha}{MAL17}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{No Justification for Spanish Internet Censorship During Catalonian Referendum}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eff.org/deeplinks/2017/10/no-justification-spanish-internet-censorship-during-catalonian-referendum
+      \endverb
+      \verb{url}
+      \verb https://www.eff.org/deeplinks/2017/10/no-justification-spanish-internet-censorship-during-catalonian-referendum
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{veDoc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=212c5955665fc9f13e5d5302a74c723f}{%
+           family={Networx},
+           familyi={N\bibinitperiod},
+           given={Amogo},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{212c5955665fc9f13e5d5302a74c723f}
+      \strng{fullhash}{212c5955665fc9f13e5d5302a74c723f}
+      \strng{bibnamehash}{212c5955665fc9f13e5d5302a74c723f}
+      \strng{authorbibnamehash}{212c5955665fc9f13e5d5302a74c723f}
+      \strng{authornamehash}{212c5955665fc9f13e5d5302a74c723f}
+      \strng{authorfullhash}{212c5955665fc9f13e5d5302a74c723f}
+      \field{labelalpha}{Net20}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blockchain In Food Industry (Part 2)}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=egFa6iTxN60
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=egFa6iTxN60
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{miningChina}{online}{}
+      \name{author}{1}{}{%
+        {{hash=df547b6344715efeacfeb2c04e138f99}{%
+           family={Peck},
+           familyi={P\bibinitperiod},
+           given={Morgen\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{df547b6344715efeacfeb2c04e138f99}
+      \strng{fullhash}{df547b6344715efeacfeb2c04e138f99}
+      \strng{bibnamehash}{df547b6344715efeacfeb2c04e138f99}
+      \strng{authorbibnamehash}{df547b6344715efeacfeb2c04e138f99}
+      \strng{authornamehash}{df547b6344715efeacfeb2c04e138f99}
+      \strng{authorfullhash}{df547b6344715efeacfeb2c04e138f99}
+      \field{labelalpha}{Pec17}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why the Biggest Bitcoin Mines Are in China}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china
+      \endverb
+      \verb{url}
+      \verb https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{test123}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d6e2b147727d01bcdddac56087a39f7d}{%
+           family={Trepl},
+           familyi={T\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {test}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang GmbH, Internationaler Verlag der Wissenschaften}%
+      }
+      \strng{namehash}{d6e2b147727d01bcdddac56087a39f7d}
+      \strng{fullhash}{d6e2b147727d01bcdddac56087a39f7d}
+      \strng{bibnamehash}{d6e2b147727d01bcdddac56087a39f7d}
+      \strng{authorbibnamehash}{d6e2b147727d01bcdddac56087a39f7d}
+      \strng{authornamehash}{d6e2b147727d01bcdddac56087a39f7d}
+      \strng{authorfullhash}{d6e2b147727d01bcdddac56087a39f7d}
+      \field{labelalpha}{Tre05}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{3631534744}
+      \field{title}{Allgemeine Ökologie, Band 1: Organismus und Umwelt}
+      \field{year}{2005}
+    \endentry
+    \entry{p2p}{online}{}
+      \name{author}{1}{}{%
+        {{hash=92ac52c3a345d6bfb9ab2fabd550a6ce}{%
+           family={Veeramani},
+           familyi={V\bibinitperiod},
+           given={Karthika},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \strng{fullhash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \strng{bibnamehash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \strng{authorbibnamehash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \strng{authornamehash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \strng{authorfullhash}{92ac52c3a345d6bfb9ab2fabd550a6ce}
+      \field{labelalpha}{Vee19}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Client-Server vs P2P}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/profile/Karthika-Veeramani/publication/335480185/figure/fig2/AS:797402890006528@1567127072423/Client-server-and-P2P-network-models.ppm
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/profile/Karthika-Veeramani/publication/335480185/figure/fig2/AS:797402890006528@1567127072423/Client-server-and-P2P-network-models.ppm
+      \endverb
+      \keyw{image}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
