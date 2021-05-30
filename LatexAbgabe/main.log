@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  30 MAY 2021 16:41
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  30 MAY 2021 17:59
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1978,12 +1978,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Overfull \hbox (92.31142pt too wide) in paragraph at lines 44--44
-[]  
- []
-
-[1
+) [1
 
 
 
@@ -2033,7 +2028,7 @@ chapter 2.
 <nachhaltig.jpg, id=69, 1185.96924pt x 724.55307pt>
 File: nachhaltig.jpg Graphic file (type jpg)
 <use nachhaltig.jpg>
-Package luatex.def Info: nachhaltig.jpg  used on input line 8.
+Package luatex.def Info: nachhaltig.jpg  used on input line 7.
 (luatex.def)             Requested size: 284.52756pt x 173.82996pt.
  [3
 
@@ -2046,7 +2041,7 @@ chapter 3.
 <peer2peer.jpg, id=87, 853.1875pt x 346.29375pt>
 File: peer2peer.jpg Graphic file (type jpg)
 <use peer2peer.jpg>
-Package luatex.def Info: peer2peer.jpg  used on input line 18.
+Package luatex.def Info: peer2peer.jpg  used on input line 17.
 (luatex.def)             Requested size: 284.52756pt x 115.48732pt.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TS1).
@@ -2153,7 +2148,7 @@ xmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
 s/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (16 pages, 428948 bytes).
+Output written on main.pdf (16 pages, 428932 bytes).
 
 PDF statistics: 276 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
