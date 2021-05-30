@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  30 MAY 2021 18:01
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  30 MAY 2021 18:12
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -2148,7 +2148,7 @@ xmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
 s/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (16 pages, 428900 bytes).
+Output written on main.pdf (16 pages, 428917 bytes).
 
 PDF statistics: 276 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
