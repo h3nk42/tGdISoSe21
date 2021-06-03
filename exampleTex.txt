@@ -20,6 +20,40 @@ das ist eine subÜberschrift
 \end{figure} 
 das ist eine Bildquelle
 
+das ist eine Tabelle
+\begin{longtable}{|c|c|c|c|c|}
+	\hline
+	\multicolumn{1}{|c}{\textbf{Fall}} &
+	\multicolumn{1}{|c}{\textbf{Pin 1}} &
+	\multicolumn{1}{|c}{\textbf{Pin 2}} &
+	\multicolumn{1}{|c}{\textbf{Pin 3}} &
+	\multicolumn{1}{|c|}{\textbf{Pin 4}} \\
+	\hline
+	\endfirsthead
+	
+	\multicolumn{3}{c}{Beschreibung}\\ \hline
+	\multicolumn{1}{|c}{\textbf{Spalte 1}} &
+	\multicolumn{1}{|c}{\textbf{Spalte 1}} &
+	\multicolumn{1}{|c}{\textbf{Spalte 1}} &
+	\multicolumn{1}{|c}{\textbf{Pin 2}} &
+	\multicolumn{1}{|c}{\textbf{Spalte 2}}\\
+	\hline
+	\endhead
+	
+	\multicolumn{2}{c}{Fortsetzung auf der nächsten Seite}
+	\endfoot
+	
+	\caption{Pin-Falltabelle}
+	\label{tab:example}
+	\endlastfoot
+	
+	x zu weit rechts & 1 & 0 & / & / \\ \hline
+	x zu weit links & 0 & 1 & / & /  \\ \hline
+	x korrekt & 1 & 1 & / & /   \\ \hline
+	y zu weit rechts & / & / & 1 & 0  \\ \hline
+	y zu weit links & / & / & 0 & 1   \\ \hline
+	y korrekt & / & / & 1 & 1  \\ \hline
+\end{longtable}
 
 \cite{smartContract}
 so gibt man quelle an 

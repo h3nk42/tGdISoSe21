@@ -39,7 +39,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Lieferketten dank Blockchain überwachen}
-      \field{urlday}{15}
+      \field{urlday}{28}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2019}
@@ -72,7 +72,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Developpement durable}
-      \field{urlday}{1}
+      \field{urlday}{24}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2009}
@@ -145,37 +145,6 @@
       \keyw{online}
       \warn{\item Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring}
     \endentry
-    \entry{tesla}{online}{}
-      \name{author}{1}{}{%
-        {{hash=9e0685b599cf0271fbe34255a41dfa82}{%
-           family={FAZ},
-           familyi={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{fullhash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{bibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authorbibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authornamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authorfullhash}{9e0685b599cf0271fbe34255a41dfa82}
-      \field{labelalpha}{FAZ21}
-      \field{sortinit}{F}
-      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Tesla investiert 1,5 Milliarden Dollar in Bitcoin}
-      \field{urlday}{1}
-      \field{urlmonth}{5}
-      \field{urlyear}{2021}
-      \field{year}{2021}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
-      \endverb
-      \verb{url}
-      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
-      \endverb
-      \keyw{online}
-    \endentry
     \entry{doi:nachhaltig}{article}{}
       \name{author}{1}{}{%
         {{hash=97075f424bdfe1e7b0af879a4646e03b}{%
@@ -229,7 +198,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{What is VeChain?}
-      \field{urlday}{15}
+      \field{urlday}{29}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2019}
@@ -262,7 +231,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{ARPANET – The First Internet}
-      \field{urlday}{2}
+      \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{/}
@@ -295,7 +264,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{No Justification for Spanish Internet Censorship During Catalonian Referendum}
-      \field{urlday}{2}
+      \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2017}
@@ -328,7 +297,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Blockchain In Food Industry (Part 2)}
-      \field{urlday}{15}
+      \field{urlday}{28}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2020}
@@ -361,7 +330,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Why the Biggest Bitcoin Mines Are in China}
-      \field{urlday}{2}
+      \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2017}
@@ -424,7 +393,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Client-Server vs P2P}
-      \field{urlday}{2}
+      \field{urlday}{26}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{year}{2019}
@@ -436,6 +405,36 @@
       \verb https://www.researchgate.net/profile/Karthika-Veeramani/publication/335480185/figure/fig2/AS:797402890006528@1567127072423/Client-server-and-P2P-network-models.ppm
       \endverb
       \keyw{image}
+    \endentry
+    \entry{tokenEco}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e0192852ff33fb42f7000c61c321dc58}{%
+           family={Voshmgir},
+           familyi={V\bibinitperiod},
+           given={Shermin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {https://github.com/sherminvo/TokenEconomyBook}%
+      }
+      \list{publisher}{1}{%
+        {BlockchainHub Berlin}%
+      }
+      \strng{namehash}{e0192852ff33fb42f7000c61c321dc58}
+      \strng{fullhash}{e0192852ff33fb42f7000c61c321dc58}
+      \strng{bibnamehash}{e0192852ff33fb42f7000c61c321dc58}
+      \strng{authorbibnamehash}{e0192852ff33fb42f7000c61c321dc58}
+      \strng{authornamehash}{e0192852ff33fb42f7000c61c321dc58}
+      \strng{authorfullhash}{e0192852ff33fb42f7000c61c321dc58}
+      \field{labelalpha}{Vos20}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{3982103819}
+      \field{title}{Token economy}
+      \field{year}{2020}
     \endentry
   \enddatalist
 \endrefsection
