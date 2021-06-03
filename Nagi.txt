@@ -1,4 +1,4 @@
-# Mehr als nur Bitcoin
+# **Mehr als nur Bitcoin**
 
 Wenn man sich die Statik anschaut oder die Leute direkt fragt, ist das eher Bitcoin oder Blockchain bekannt. Die Antwort dafür ist klar(https://trends.google.com/trends/explore?q=Bitcoin,Blockchain): Mit der Währung Bitcoin kann man etwas anfangen. Und ohne die Blockchain-Technologie gäbe es kein Bitcoin. Und die meisten Leute, die eine Vorstellung davon haben, was Blockchain ist, finden es schwierig zu erklären, was es genau ist. Bitcoin ist als Kryptowährung bekannt, die einige Menschen in kurzer Zeit sehr reich gemacht hat. Daher können wir verstehen, warum Blockchain weniger bekannt ist als Bitcoin.
 
