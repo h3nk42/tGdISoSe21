@@ -17,7 +17,12 @@ Da Blockchain dezentral funktioniert und großvolumige Transaktionen in Echtzeit
 Ein Konsensalgorithmus ist ein Mechanismus in der Informatik, der verwendet wird, um eine Übereinstimmung über einen einzelnen Datenwert über verteilte Prozesse oder Systeme hinweg herzustellen. Ein Konsensalgorithmus ist ein Protokoll, durch das alle Parteien des Blockchain-Netzwerks eine gemeinsame Vereinbarung (Konsens) über den aktuellen Datenzustand des Ledgers treffen und unbekannten Peers in einer verteilten Computerumgebung vertrauen können.
 
 Für Blockchain-Netzwerke sind die Konsensalgorithmen ein wesentliches Element, da sie die Integrität und Sicherheit dieser verteilten Computersysteme aufrechterhalten. Die beiden Haupttypen dieses Algorithmus sind Proof of Work und Proof of Stake. Und dieses Bild erklärt sie beide.
-![](https://mk0coinprobtvp62ebcp.kinstacdn.com/wp-content/uploads/2021/02/infografik-proof-of-work-proof-of-stake.png)
+
+\begin{figure}[ht!]
+    \centering
+    \includegraphics[width=100mm]{ProofOfWorkVSProfOfStake.jpg}
+    \caption{Infografik zu den Unterschieden von Proof of Work und Proof of Stake} \label{overflow}}
+\end{figure}
 
 BLOCKCHAIN-TECHNOLOGIE IN DER ENERGIEWIRTSCHAFT (TRANSPARENZ)
 
