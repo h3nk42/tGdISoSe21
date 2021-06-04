@@ -8,6 +8,17 @@ All diese Art von Nachrichten tragen dazu bei, Bitcoin immer bekannter zu machen
 
 Die folgenden Absätze geben eine klare Vorstellung davon, was Blockchain eigentlich ist. Es soll zunächst einen guten Überblick über einige Fachbegriffe geben und dann versuchen, Blockchain ganz einfach zu erklären. Wir werden schließlich auf die einzelnen Unterpunkte einer Blockchain eingehen. Und wir beginnen mit zwei Begriffen: Zentralisierung und Dezentralisierung, und was ist der Unterschied zwischen ihnen. 
 
+KONSESALGORITHMUS
+
+Blockchain-Konsensalgorithmus stellt sicher, dass jeder neue Block, der dem Netzwerk hinzugefügt wird, die einzige Version der Wahrheit ist, die von allen Knoten in einem verteilten/dezentralen Computernetzwerk akzeptiert wird.
+
+Da Blockchain dezentral funktioniert und großvolumige Transaktionen in Echtzeit aufzeichnet, kann die Komplexität der Wahrheit bestehen. Der Schlüssel besteht darin, auf die eine oder andere Weise einen Konsens zu erzielen, da sonst böswillige Dinge wie Double-Spend-Angriffe auftreten können. Hier kommt der Konsensalgorithmus ins Spiel.
+
+Ein Konsensalgorithmus ist ein Mechanismus in der Informatik, der verwendet wird, um eine Übereinstimmung über einen einzelnen Datenwert über verteilte Prozesse oder Systeme hinweg herzustellen. Ein Konsensalgorithmus ist ein Protokoll, durch das alle Parteien des Blockchain-Netzwerks eine gemeinsame Vereinbarung (Konsens) über den aktuellen Datenzustand des Ledgers treffen und unbekannten Peers in einer verteilten Computerumgebung vertrauen können.
+
+Für Blockchain-Netzwerke sind die Konsensalgorithmen ein wesentliches Element, da sie die Integrität und Sicherheit dieser verteilten Computersysteme aufrechterhalten. Die beiden Haupttypen dieses Algorithmus sind Proof of Work und Proof of Stake. Und dieses Bild erklärt sie beide.
+![](https://mk0coinprobtvp62ebcp.kinstacdn.com/wp-content/uploads/2021/02/infografik-proof-of-work-proof-of-stake.png)
+
 BLOCKCHAIN-TECHNOLOGIE IN DER ENERGIEWIRTSCHAFT (TRANSPARENZ)
 
 Der Ausbau erneuerbarer Energien nimmt im Zuge der Energiewende rasant zu. Die Struktur der Energieversorgungssysteme wird zunehmend dezentralisiert. Neue Akteure wie Prosumenten, die ihren eigenen Strom erzeugen und verbrauchen, könnten sich auf dem Strommarkt etablieren. Allerdings können Prosumenten aufgrund ihrer geringen Kapazität derzeit nicht wirtschaftlich am Stromhandel teilnehmen. Insbesondere die zunehmende Komplexität der Steuerung und die Belastung der Netzinfrastruktur sowie die hohen Anforderungen an die Datensicherheit, die mit dem Stromaustausch und den damit verbundenen Stromrechnungen verbunden sind, erfordern eine Digitalisierung der Energiewende (Energiewende 2.0).
