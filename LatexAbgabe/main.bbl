@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{blockchaincom_statistic_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=49fc849b8c76e2197167dbd314b0509b}{%
+           family={Blockchain.com},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{49fc849b8c76e2197167dbd314b0509b}
+      \strng{fullhash}{49fc849b8c76e2197167dbd314b0509b}
+      \strng{bibnamehash}{49fc849b8c76e2197167dbd314b0509b}
+      \strng{authorbibnamehash}{49fc849b8c76e2197167dbd314b0509b}
+      \strng{authornamehash}{49fc849b8c76e2197167dbd314b0509b}
+      \strng{authorfullhash}{49fc849b8c76e2197167dbd314b0509b}
+      \field{labelalpha}{Blo}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The estimated number of terahashes per second the bitcoin network is performing in the last 24 hours.}
+      \field{journaltitle}{Blockchain.com}
+      \field{title}{Statistic - Total Hash Rate (TH/s)}
+      \field{type}{Statistics}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.blockchain.com/charts/hash-rate
+      \endverb
+      \verb{url}
+      \verb https://www.blockchain.com/charts/hash-rate
+      \endverb
+    \endentry
     \entry{lieferkette}{online}{}
       \name{author}{1}{}{%
         {{hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
@@ -176,6 +211,83 @@
       \endverb
       \verb{url}
       \verb https://www.kohlhammer.de/wms/instances/KOB/appDE/Natur-und-Landschaft-88-2013-02
+      \endverb
+    \endentry
+    \entry{hoffman_chia_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cd937dac80d2236e76d34f9871178dc5}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{fullhash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{bibnamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authorbibnamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authornamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authorfullhash}{cd937dac80d2236e76d34f9871178dc5}
+      \field{extraname}{1}
+      \field{labelalpha}{Hof21}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction}
+      \field{journaltitle}{Chia Network}
+      \field{month}{2}
+      \field{title}{Chia plotting basics}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://chia.net/2021/02/22/plotting-basics.html
+      \endverb
+      \verb{url}
+      \verb https://chia.net/2021/02/22/plotting-basics.html
+      \endverb
+    \endentry
+    \entry{hoffman_plot_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cd937dac80d2236e76d34f9871178dc5}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chia Network}%
+      }
+      \strng{namehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{fullhash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{bibnamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authorbibnamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authornamehash}{cd937dac80d2236e76d34f9871178dc5}
+      \strng{authorfullhash}{cd937dac80d2236e76d34f9871178dc5}
+      \field{extraname}{2}
+      \field{labelalpha}{Hof21}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)}
+      \field{month}{6}
+      \field{note}{original-date: 2019-07-16T08:32:40Z}
+      \field{title}{Plot Size - Chia}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/Chia-Network/chia-blockchain
+      \endverb
+      \verb{url}
+      \verb https://github.com/Chia-Network/chia-blockchain
       \endverb
     \endentry
     \entry{vechain}{online}{}
@@ -343,6 +455,101 @@
       \endverb
       \keyw{online}
     \endentry
+    \entry{michel_rauchs_cbeci_nodate}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=7fa2ae1ba416b23a7b1b4510b37e1df1}{%
+           family={Rauchs},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c639f2189814cfdcadd929eb387a7d1f}{%
+           family={Blandin},
+           familyi={B\bibinitperiod},
+           given={Apolline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=01076daf82c1a3c841b4de034e47440a}{%
+           family={Dek},
+           familyi={D\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5054d8715f6746af9ed28c566f168046}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7e75e728b626540419cbad4ed7c9ca5a}
+      \strng{fullhash}{1ce3a4eec53a525a61c280ff8acd9e4b}
+      \strng{bibnamehash}{7e75e728b626540419cbad4ed7c9ca5a}
+      \strng{authorbibnamehash}{7e75e728b626540419cbad4ed7c9ca5a}
+      \strng{authornamehash}{7e75e728b626540419cbad4ed7c9ca5a}
+      \strng{authorfullhash}{1ce3a4eec53a525a61c280ff8acd9e4b}
+      \field{labelalpha}{Rau}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{SHA-256 CBECI SHA-256 Mining Equipment List Last updated: 11 January 2021 You are welcome to contribute to this list: please feel free to suggest new mining machines to be added to the list, specify the real average efficiency for a given equipment type, or provide estimates on the number of mac...}
+      \field{journaltitle}{Google Docs}
+      \field{title}{CBECI SHA-256 mining eqp list}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.google.com/spreadsheets/d/1ciqka_-t0zDSOVyB4yhVZBfLFGKwJMlQ2EwA0CB1ljM/edit
+      \endverb
+      \verb{url}
+      \verb https://docs.google.com/spreadsheets/d/1ciqka_-t0zDSOVyB4yhVZBfLFGKwJMlQ2EwA0CB1ljM/edit
+      \endverb
+    \endentry
+    \entry{taylor_evolution_2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae0af6faf5ddb3d094a1ddb914dd7f81}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelima Bedford},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \strng{fullhash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \strng{bibnamehash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \strng{authorbibnamehash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \strng{authornamehash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \strng{authorfullhash}{ae0af6faf5ddb3d094a1ddb914dd7f81}
+      \field{labelalpha}{Tay17}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9162}
+      \field{journaltitle}{Computer}
+      \field{number}{9}
+      \field{title}{The Evolution of Bitcoin Hardware}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{58\bibrangedash 66}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/MC.2017.3571056
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8048662/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8048662/
+      \endverb
+    \endentry
     \entry{test123}{book}{}
       \name{author}{1}{}{%
         {{hash=d6e2b147727d01bcdddac56087a39f7d}{%
@@ -435,6 +642,93 @@
       \field{isbn}{3982103819}
       \field{title}{Token economy}
       \field{year}{2020}
+    \endentry
+    \entry{de_vries_bitcoin_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=54070f0704c7007af5cb9964d980c859}{%
+           family={Vries},
+           familyi={V\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{fullhash}{54070f0704c7007af5cb9964d980c859}
+      \strng{bibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorbibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authornamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorfullhash}{54070f0704c7007af5cb9964d980c859}
+      \field{extraname}{1}
+      \field{labelalpha}{Vri}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digiconomist}
+      \field{title}{Bitcoin Energy Consumption Index - Digiconomist}
+      \field{type}{A platform that is dedicated to exposing the unintended consequences of digital trends, typically from an economic perspective}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://digiconomist.net/bitcoin-energy-consumption
+      \endverb
+      \verb{url}
+      \verb https://digiconomist.net/bitcoin-energy-consumption
+      \endverb
+    \endentry
+    \entry{de_vries_renewable_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=54070f0704c7007af5cb9964d980c859}{%
+           family={Vries},
+           familyi={V\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{fullhash}{54070f0704c7007af5cb9964d980c859}
+      \strng{bibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorbibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authornamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorfullhash}{54070f0704c7007af5cb9964d980c859}
+      \field{extraname}{2}
+      \field{labelalpha}{Vri19}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{25424351}
+      \field{journaltitle}{Joule}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Renewable Energy Will Not Solve Bitcoin’s Sustainability Problem}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{893\bibrangedash 898}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.joule.2019.02.007
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S254243511930087X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S254243511930087X
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

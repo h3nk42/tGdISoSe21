@@ -1,21 +1,24 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[50] biber:322> INFO - === Do Jun  3, 2021, 16:56:49
-[60] Biber.pm:415> INFO - Reading 'main.bcf'
-[111] Biber.pm:943> INFO - Found 13 citekeys in bib section 0
-[121] Biber.pm:4256> INFO - Processing section 0
-[121] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
-[121] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
-[128] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
-[129] bibtex.pm:1653> INFO - LaTeX decoding ...
-[145] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
-[181] Utils.pm:293> WARN - year field '/' in entry 'arpanet' is not an integer - this will probably not sort properly.
-[189] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
-[196] Utils.pm:293> WARN - Entry 'bitcoin' (references/references.bib): Invalid format '2021-05-1' of date field 'urldate' - ignoring
-[224] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[224] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[224] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[224] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[235] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[239] bbl.pm:755> INFO - Output to main.bbl
-[239] Biber.pm:128> INFO - WARNINGS: 3
+[61] biber:322> INFO - === Fr Jun  4, 2021, 10:34:58
+[71] Biber.pm:415> INFO - Reading 'main.bcf'
+[127] Biber.pm:943> INFO - Found 20 citekeys in bib section 0
+[140] Biber.pm:4256> INFO - Processing section 0
+[140] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
+[140] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
+[148] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
+[149] bibtex.pm:1653> INFO - LaTeX decoding ...
+[175] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
+[177] Utils.pm:293> WARN - Duplicate entry key: 'de_vries_renewable_2019' in file 'references/references.bib', skipping ...
+[214] Utils.pm:293> WARN - year field '/' in entry 'arpanet' is not an integer - this will probably not sort properly.
+[225] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
+[233] Utils.pm:293> WARN - Entry 'bitcoin' (references/references.bib): Invalid format '2021-05-1' of date field 'urldate' - ignoring
+[257] Utils.pm:293> WARN - month field 'apr' in entry 'de_vries_renewable_2019' is not an integer - this will probably not sort properly.
+[270] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_Y75s/references.bib_138981.utf8, line 200, warning: 21 characters of junk seen at toplevel
+[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[295] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[295] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[314] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[321] bbl.pm:755> INFO - Output to main.bbl
+[321] Biber.pm:128> INFO - WARNINGS: 6

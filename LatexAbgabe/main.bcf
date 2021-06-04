@@ -2194,9 +2194,16 @@
     <bcf:citekey order="10">miningChina</bcf:citekey>
     <bcf:citekey order="11">bitcoin</bcf:citekey>
     <bcf:citekey order="12">tokenEco</bcf:citekey>
-    <bcf:citekey order="13">lieferkette</bcf:citekey>
-    <bcf:citekey order="14">vechain</bcf:citekey>
-    <bcf:citekey order="15">veDoc</bcf:citekey>
+    <bcf:citekey order="13">de_vries_bitcoin_nodate</bcf:citekey>
+    <bcf:citekey order="14">taylor_evolution_2017</bcf:citekey>
+    <bcf:citekey order="15">michel_rauchs_cbeci_nodate</bcf:citekey>
+    <bcf:citekey order="16">blockchaincom_statistic_nodate</bcf:citekey>
+    <bcf:citekey order="17">de_vries_renewable_2019</bcf:citekey>
+    <bcf:citekey order="18">hoffman_plot_2021</bcf:citekey>
+    <bcf:citekey order="19">hoffman_chia_2021</bcf:citekey>
+    <bcf:citekey order="20">lieferkette</bcf:citekey>
+    <bcf:citekey order="21">vechain</bcf:citekey>
+    <bcf:citekey order="22">veDoc</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">

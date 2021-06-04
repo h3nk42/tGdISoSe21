@@ -7,25 +7,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Technologische Grundlagen der Blockchain-Technologie}{4}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Zentral vs Dezentral - Henk}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Mehr als nur Bitcoin - Nagi}{4}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Mehr als nur Bitcoin - Nagi}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Zentral vs Dezentral - Henk}{5}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Smart Contracts - Henk}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Smart Contracts - Henk}{7}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Konsensalgorithmus - Nagi}{6}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Konsensalgorithmus - Nagi}{7}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Chancen und Risiken}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Chancen und Risiken}{8}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Risiko 1 - Samuel}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Risiko 1 - Samuel}{8}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Risiko - Niels}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Risiko - Entstehung von Elektrom\"ull - Niels}{8}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Chance: Lieferketten Transparenz - Henk}{7}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Chance: Lieferketten Transparenz - Henk}{11}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Chance 2 - Nagi}{9}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Chance 2 - Nagi}{12}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{13}{chapter.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{I}{chapter*.5}%
 \defcounter {refsection}{0}\relax 
