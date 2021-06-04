@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  4 JUN 2021 10:35
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  4 JUN 2021 14:41
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -2025,7 +2025,7 @@ chapter 2.
 
 
 ]
-<nachhaltig.jpg, id=67, 1185.96924pt x 724.55307pt>
+<nachhaltig.jpg, id=71, 1185.96924pt x 724.55307pt>
 File: nachhaltig.jpg Graphic file (type jpg)
 <use nachhaltig.jpg>
 Package luatex.def Info: nachhaltig.jpg  used on input line 7.
@@ -2038,7 +2038,7 @@ chapter 3.
 
 
 ]
-<peer2peer.jpg, id=85, 853.1875pt x 346.29375pt>
+<peer2peer.jpg, id=89, 853.1875pt x 346.29375pt>
 File: peer2peer.jpg Graphic file (type jpg)
 <use peer2peer.jpg>
 Package luatex.def Info: peer2peer.jpg  used on input line 24.
@@ -2048,16 +2048,41 @@ Package luatex.def Info: peer2peer.jpg  used on input line 24.
 ]
 chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
 [8
 
 
-] [9] [10] [11]) [12] (./chapter/Evaluation.tex
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
+
+ []
+
+[10] [11] [12] [13] [14]) [15] (./chapter/Evaluation.tex
 chapter 5.
-) [13
+) [16
 
 
 
@@ -2108,17 +2133,50 @@ tps : / / www . researchgate .
 
 
 
-] (./chapter/Anhang.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+]
+chapter without number
+
+Overfull \hbox (39.14056pt too wide) in paragraph at lines 88--88
+\T1/lmtt/m/n/12 google . com / spreadsheets / d / 1ciqka_ - t0zDSOVyB4yhVZBfLFG
+KwJMlQ2EwA0CB1ljM /
+ []
+
+[4
+
+
+
+]
+chapter without number
+[5
+
+
+
+]
+
+Package biblatex Warning: Type 'techreport' not found on input line 90.
+
+
+LaTeX Warning: Empty bibliography on input line 90.
+
+(./chapter/Anhang.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 
@@ -2126,41 +2184,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 45404 strings out of 481365
+ 45421 strings out of 481365
  100000,1977958 words of node,token memory allocated
- 905 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 40 attribute, 94 glue_spec
-, 22 attribute_list, 4 write, 12 pdf_action nodes
-   avail lists: 1:4,2:1023,3:229,4:72,5:708,6:73,7:9744,8:168,9:244,10:30,11:100
-3
- 60648 multiletter control sequences out of 65536+600000
+ 998 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 56 attribute, 94 glue_spec
+, 30 attribute_list, 5 write, 19 pdf_action nodes
+   avail lists: 1:4,2:1086,3:251,4:80,5:659,6:90,7:10016,8:168,9:252,10:30,11:99
+7
+ 60657 multiletter control sequences out of 65536+600000
  54 fonts using 5387835 bytes
  69i,19n,85p,10117b,2278s stack positions out of 5000i,500n,10000p,200000b,100000s
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@hoffman_chia_
-2021'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@hoffman_plot_
-2021'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@blockchaincom
-_statistic_nodate'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@michel_rauchs
-_cbeci_nodate'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@de_vries_bitc
-oin_nodate'
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pub
 lic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.p
 fb>
-Output written on main.pdf (18 pages, 442119 bytes).
+Output written on main.pdf (23 pages, 458671 bytes).
 
-PDF statistics: 295 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 131072)
- 144 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 351 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 131072)
+ 160 words of extra memory for PDF output out of 10000 (max. 100000000)
 

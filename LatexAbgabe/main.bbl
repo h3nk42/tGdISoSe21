@@ -180,6 +180,37 @@
       \keyw{online}
       \warn{\item Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring}
     \endentry
+    \entry{tesla}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9e0685b599cf0271fbe34255a41dfa82}{%
+           family={FAZ},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{fullhash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{bibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authorbibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authornamehash}{9e0685b599cf0271fbe34255a41dfa82}
+      \strng{authorfullhash}{9e0685b599cf0271fbe34255a41dfa82}
+      \field{labelalpha}{FAZ21}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla investiert 1,5 Milliarden Dollar in Bitcoin}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \endverb
+      \verb{url}
+      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \endverb
+      \keyw{online}
+    \endentry
     \entry{doi:nachhaltig}{article}{}
       \name{author}{1}{}{%
         {{hash=97075f424bdfe1e7b0af879a4646e03b}{%

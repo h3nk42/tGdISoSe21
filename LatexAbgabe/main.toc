@@ -17,18 +17,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Chancen und Risiken}{8}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Risiko 1 - Samuel}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Risiko 1 - CO2-Emissionen durch Kryptow\"ahrungen - Samuel}{8}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Risiko - Entstehung von Elektrom\"ull - Niels}{8}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Risiko - Entstehung von Elektrom\"ull - Niels}{11}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Chance: Lieferketten Transparenz - Henk}{11}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Chance: Lieferketten Transparenz - Henk}{13}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Chance 2 - Nagi}{12}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Chance 2 - Nagi}{15}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{16}{chapter.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{I}{chapter*.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Onlinereferenzen}{II}{chapter*.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Bildreferenzen}{III}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Sonstige Referenzen}{IV}{chapter*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Artikelreferenzen}{V}{chapter*.9}%
