@@ -1,3 +1,11 @@
+\chapter{Einleitung}
+
+Die Technologie Blockchain hat in den letzten Jahren zunehmend an Aufmerksamkeit gewonnen (cite Google Trends). Während sie heute in der Anwendung, abgesehen von manchen Kryptowährungen, noch nicht im Mainstream angekommen ist, könnte sich dies in den kommenden Jahren ändern (cite NYT Artikel). Das Konzept der Blockchain ist die denzentrale Speicherung von Informationen, die in Blöcken gespeichert und in einer vorhandenen Kette aus Blocks angehangen wird. Die Validierung von Transaktionen findet hierbei durch die Teilnehmer*innen des dezentralen Netwerks statt (cite Blockchainhub). Die Technologie und assoziierten Begriffe werden in den folgenden Kapiteln erklärt, um die Chancen und Risiken, die Blockchain wie jede technische Neuerung mit sich bringt (cite NYT Artikel), besser nachvollziehen zu könne. \newline
+Die Chancen und Risiken können, unter Anderem, von sozialer, ökonomischer oder ökologischer Sorte sein. Ökologische Faktoren sind angesichts des fortschreitenden Klimawandels aktuell von sehr großer Bedeutung. Dies zeigt sich zum Beispiel im Global Risk Report 2021 des World Economic Forum, welcher mit "Extreme weather", "Climate Action Failure" und "Human Environmental Damage" drei ökologische Risiken als die wahrscheinlichsten Bedrohungen für die Menscheit einordnet (cite WEF Report, s.12). Darüber hinaus wurden Kryptowährungen, die auf einer Blockchain basieren, jüngst dafür kritisert, für große Mengen an CO2-Emissionen verantwortlich zu sein \cite{waters_musk_2021}. Deshalb fokussieren wir im Verlauf dieses Papers auf ökologische Risiken von Blockchain und gehen der Kritik auf den Grund. Außerdem zeigen wir Beispiele auf, wie die Blockchain auch positiv zu ökologischer Nachhaltigkeit beitragen kann. 
+
+
+
+
 \chapter{CO2-Emissionen durch Kryptowährungen}
 \newline
 
