@@ -1,33 +1,38 @@
-MEHR ALS NUR BITCOIN
-
-Wenn man sich die Statik anschaut oder die Leute direkt fragt, ist das eher Bitcoin oder Blockchain bekannt. Die Antwort dafür ist klar [Gbtcvsbc21]: Mit der Währung Bitcoin kann man etwas anfangen. Und ohne die Blockchain-Technologie gäbe es kein Bitcoin. Und die meisten Leute, die eine Vorstellung davon haben, was Blockchain ist, finden es schwierig zu erklären, was es genau ist. Bitcoin ist als Kryptowährung bekannt, die einige Menschen in kurzer Zeit sehr reich gemacht hat. Daher können wir verstehen, warum Blockchain weniger bekannt ist als Bitcoin.
-
-Die Leute mögen es lieber, wenn sie über Dinge sprechen, die sie verstehen. So etwas wie Blockhain, das unantastbar oder gekauft ist, ist kein wirklich gutes Thema für die Presse oder als Thema in unseren täglichen Gesprächen. Im Gegensatz dazu kann Bitcoin, das ebenfalls unantastbar ist, zumindest online gekauft werden. Und die Presse würde wirklich schöne Titel dazu finden. Wie zum Beispiel: Dieser 18-jährige Teenager hat dank Bitcoin in 5 Jahren Milliarden von Dollar verdient [Jeff18], oder der Typ, der nach diesem einen Computer sucht, auf dem er vor 10 Jahren einige Bitcoins geschürft (mined) hat und ihn sehr reich machen würde, wenn er den Computer findet .
+\chapter{Mehr als nur bitcoin}
+\newline
+Wenn man sich die Statik anschaut oder die Leute direkt fragt, ist das eher Bitcoin oder Blockchain bekannt. Die Antwort dafür ist klar \cite{Gbtcvsbc21}: Mit der Währung Bitcoin kann man etwas anfangen. Und ohne die Blockchain-Technologie gäbe es kein Bitcoin. Und die meisten Leute, die eine Vorstellung davon haben, was Blockchain ist, finden es schwierig zu erklären, was es genau ist. Bitcoin ist als Kryptowährung bekannt, die einige Menschen in kurzer Zeit sehr reich gemacht hat. Daher können wir verstehen, warum Blockchain weniger bekannt ist als Bitcoin.
+\newline
+Die Leute mögen es lieber, wenn sie über Dinge sprechen, die sie verstehen. So etwas wie Blockhain, das unantastbar oder gekauft ist, ist kein wirklich gutes Thema für die Presse oder als Thema in unseren täglichen Gesprächen. Im Gegensatz dazu kann Bitcoin, das ebenfalls unantastbar ist, zumindest online gekauft werden. Und die Presse würde wirklich schöne Titel dazu finden. Wie zum Beispiel: Dieser 18-jährige Teenager hat dank Bitcoin in 5 Jahren Milliarden von Dollar verdient \cite{Jeff18}, oder der Typ, der nach diesem einen Computer sucht, auf dem er vor 10 Jahren einige Bitcoins geschürft (mined) hat und ihn sehr reich machen würde, wenn er den Computer findet .
+\newline
 
 All diese Art von Nachrichten tragen dazu bei, Bitcoin immer bekannter zu machen. Aber die Technologie hinter diesem Meisterwerk wird immer vergessen: Das gleiche Konzept, das Bitcoin im Finanzbereich sehr erfolgreich gemacht hat, könnte in vielen anderen Bereichen eingesetzt werden und mehr Wert schaffen. Beispielsweise könnten die Energieauthentifizierung und die Stromversorgung (über die wir später in einem anderen Kapitel sprechen) viel transparenter und Strom dadurch billiger werden. Aber es braucht viel Zeit, um es zu erklären. Ich meine, es ist nicht so einfach, jemanden davon zu überzeugen, etwas Geld in Bitcoin zu investieren und in ein paar Tagen reich zu sein.
+\newline
 
 Die folgenden Absätze geben eine klare Vorstellung davon, was Blockchain eigentlich ist. Es soll zunächst einen guten Überblick über einige Fachbegriffe geben und dann versuchen, Blockchain ganz einfach zu erklären. Wir werden schließlich auf die einzelnen Unterpunkte einer Blockchain eingehen. Und wir beginnen mit zwei Begriffen: Zentralisierung und Dezentralisierung, und was ist der Unterschied zwischen ihnen. 
+\newline
 
-KONSESALGORITHMUS
-
-Blockchain-Konsensalgorithmus stellt sicher, dass jeder neue Block, der dem Netzwerk hinzugefügt wird, die einzige Version der Wahrheit ist, die von allen Knoten in einem verteilten/dezentralen Computernetzwerk akzeptiert wird.
-
+\chapter{Konsensalgorithmus}
+\newline
+Ein Konsens-Algorithmus ist ein Mechanismus, der es Benutzern oder Maschinen ermöglicht, sich in einer verteilten Umgebung zu koordinieren. Er muss sicherstellen, dass sich alle Agenten im System auf eine einzige Quelle der Wahrheit einigen können, selbst wenn einige Agenten versagen. Mit anderen Worten, das System muss fehlertolerant sein. \cite{Binance21}
+\newline
 Da Blockchain dezentral funktioniert und großvolumige Transaktionen in Echtzeit aufzeichnet, kann die Komplexität der Wahrheit bestehen. Der Schlüssel besteht darin, auf die eine oder andere Weise einen Konsens zu erzielen, da sonst böswillige Dinge wie Double-Spend-Angriffe auftreten können. Hier kommt der Konsensalgorithmus ins Spiel.
-
+\newline
 Ein Konsensalgorithmus ist ein Mechanismus in der Informatik, der verwendet wird, um eine Übereinstimmung über einen einzelnen Datenwert über verteilte Prozesse oder Systeme hinweg herzustellen. Ein Konsensalgorithmus ist ein Protokoll, durch das alle Parteien des Blockchain-Netzwerks eine gemeinsame Vereinbarung (Konsens) über den aktuellen Datenzustand des Ledgers treffen und unbekannten Peers in einer verteilten Computerumgebung vertrauen können.
-
+\newline
 Für Blockchain-Netzwerke sind die Konsensalgorithmen ein wesentliches Element, da sie die Integrität und Sicherheit dieser verteilten Computersysteme aufrechterhalten. Die beiden Haupttypen dieses Algorithmus sind Proof of Work und Proof of Stake. Und dieses Bild erklärt sie beide.
-
+\newline
 \begin{figure}[ht!]
     \centering
     \includegraphics[width=100mm]{ProofOfWorkVSProfOfStake.jpg}
     \caption{Infografik zu den Unterschieden von Proof of Work und Proof of Stake} \label{overflow}}
 \end{figure}
-
-BLOCKCHAIN-TECHNOLOGIE IN DER ENERGIEWIRTSCHAFT (TRANSPARENZ)
+\newline
+\newline
+\chapter{BLOCKCHAIN-TECHNOLOGIE IN DER ENERGIEWIRTSCHAFT (TRANSPARENZ)}
+\newline
 
 Der Ausbau erneuerbarer Energien nimmt im Zuge der Energiewende rasant zu. Die Struktur der Energieversorgungssysteme wird zunehmend dezentralisiert. Neue Akteure wie Prosumenten, die ihren eigenen Strom erzeugen und verbrauchen, könnten sich auf dem Strommarkt etablieren. Allerdings können Prosumenten aufgrund ihrer geringen Kapazität derzeit nicht wirtschaftlich am Stromhandel teilnehmen. Insbesondere die zunehmende Komplexität der Steuerung und die Belastung der Netzinfrastruktur sowie die hohen Anforderungen an die Datensicherheit, die mit dem Stromaustausch und den damit verbundenen Stromrechnungen verbunden sind, erfordern eine Digitalisierung der Energiewende (Energiewende 2.0).
-
+\newline
 Ziel dieser Arbeit ist es zu untersuchen, ob die „Blockchain als Treiber der Energiewende“ zur Entwicklung neuer digitaler Geschäftsmodelle zur erfolgreichen Transformation des Energiesystems beitragen kann. Zahlreiche Aussagen von Energiewirtschaftsexperten, Studienergebnisse und zwei Umfragen weisen darauf hin, dass Blockchain mittel- und langfristig ein hohes Potenzial hat, die Energiewirtschaft in den kommenden Jahren maßgeblich zu beeinflussen. Die Blockchain-Technologie verspricht durch ihre Stärken wie Disintermediation, Sicherheit, Transparenz und Automatisierung einen wirtschaftlichen Wert.
-
+\newline
 Neben technischen Herausforderungen wie dem bevorstehenden Smart-Meter-Rollout, dem für die Kommunikation notwendigen Smart-Meter-Gateway und der Kompatibilität zwischen den Smart-Metering-Systemen und der Blockchain gibt es jedoch auch rechtliche und regulatorische Hürden, die den Einsatz der Blockchain erschweren kurzfristig. Die mit Abstand am meisten diskutierte Nutzung von Blockchain im Energiesektor ist der Peer-to-Peer-Handel von dezentralem Strom aus erneuerbaren Energien. Daher wurde im Rahmen eines Konzepts geprüft, ob es für Prosumenten trotz geringer Kapazität eine Möglichkeit gibt, wirtschaftlich am Stromhandel teilzunehmen. Die Ergebnisse zeigen, dass eine solche Umsetzung aus regulatorischen Gründen nur in Form eines Servicemodells möglich ist, bei dem alle Verantwortungsbereiche auf einen Dienstleister (z. B. Stromversorger) übertragen werden. Ein eigenständig entwickeltes Geschäftsmodell, das den Peer-to-Peer-Handel auf Basis eines Dienstes beinhaltet, zeigt die erforderliche Infrastruktur, eine detaillierte Prozessbeschreibung im Rahmen einer Business Process Map und eine Möglichkeit zur Konfiguration der Blockchain.
