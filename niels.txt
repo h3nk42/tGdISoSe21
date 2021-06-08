@@ -37,6 +37,7 @@ AORUS Gen4 AIC SSD (4x2 TB)   & 3.600                                           
 T-CREATE EXPERT (2 TB) & 12.000                                                                  & 6                                                         & 97,66                                                               \\
 \hline
 \end{tabular}
+\caption{Lebenzeit von SSD's bei dauerhaften Plotting}
 \end{table}
 
 \newline
