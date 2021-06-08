@@ -32,9 +32,9 @@ Crucial P5 (1 TB)               & 1.200                                         
 \hline
 Samsung 970 PRO (1 TB)          & 1.200                                                                   & 2                                                         & 29,3                                                                \\ 
 \hline
-AORUS Gen4 AIC SSD (4 x 2 TB)   & 3.600                                                                   & 6                                                         & 29,3                                                                \\ 
+AORUS Gen4 AIC SSD (4x2 TB)   & 3.600                                                                   & 6                                                         & 29,3                                                                \\ 
 \hline
-T-CREATE EXPERT PCIe SSD (2 TB) & 12.000                                                                  & 6                                                         & 97,66                                                               \\
+T-CREATE EXPERT (2 TB) & 12.000                                                                  & 6                                                         & 97,66                                                               \\
 \hline
 \end{tabular}
 \end{table}
