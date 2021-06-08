@@ -14,7 +14,7 @@ Es besitzt aber nicht nur der Bitcoin das Potenzial viel Elektromüll zu erzeuge
 \begin{table}
 \centering
 \begin{tabular}{l|c|c|c}
-\multicolumn{1}{c|}{Modell}     & \begin{tabular}[c]{@{}c@{}}Gesamtschreibleistung \\(in TB)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Parallele \\Plots\end{tabular} & \begin{tabular}[c]{@{}c@{}}UngefähresEOL\\(in Monate)\end{tabular}  \\ 
+\multicolumn{1}{c|}{Modell}     & \begin{tabular}[c]{@{}c@{}}Gesamtschreibleistung \\(in TB)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Parallele \\Plots\end{tabular} & \begin{tabular}[c]{@{}c@{}}Ungefähres EOL\\(in Monate)\end{tabular}  \\ 
 \hline
 BarraCuda Q5 (2 TB)		           & 531                                                                     & 6                                                         & 4,32                                                                \\ 
 \hline
