@@ -11,13 +11,35 @@ All diese Art von Nachrichten tragen dazu bei, Bitcoin immer bekannter zu machen
 Alle das kann nicht passieren, falls es kein Blockchain gibt. Also was ist Blockchain genau? Eine Blockchain \cite{CW21} ermöglicht es, Informationen mithilfe einer dezentralen, von vielen Teilnehmern gemeinsam genutzten Datenbank fälschungssicher zu übermitteln, so dass Kopien ausgeschlossen sind. Die Datenbank wird auch als verteiltes Register oder Hauptbuch (Distributed Ledger) bezeichnet. Sie ist auf vielen Rechnern in einem Peer-to-Peer-Netzwerk abgelegt, wobei jeder neue Knoten mit seinem Beitritt eine vollständige Kopie der Blockchain übernimmt und ab sofort die Aufgabe hat, Transaktionen zu überprüfen und zu dokumentieren.
 \newline
 
+Und Bitcoin ist nur eine von vielen Anwendungen der Blockchain. Daher werde ich einige der Anwendungen nennen: Juristischer Sektor, Medizintechnik, Verwaltung. In alle diesen Berichein kann man die Blockchain verwenden ohne Bitcoin zu nutzen.
+
+
+\newline
+\chapter{Smart Contracts als Grundlage für Anwendung auf der Blockchain}
+
+
+
+Ein Smart Contract ist ein Computercode, der die Ausführung bestimmter vertraglicher Vereinbarungen vereinfacht, indem er die Notwendigkeit eines Vermittlers überflüssig macht. Smart Contracts sind eng mit der Blockchain-Technologie verknüpft, da diese die Plattform ist, auf der sie basieren. Mit anderen Worten, Smart Contracts befinden sich in der Blockchain. Es gibt unzählige auf Smart Contracts basierende Anwendungen und viele Einsatzmöglichkeiten.
+
+Lieferdienste sind ein Beispiel für eine Aktivität, bei der Smart Contracts leicht angewendet werden könnten. Ein Smart Contract würde sicherstellen, dass das Geld erst nach der tatsächlichen Zustellung des Pakets an den Lieferdienst gesendet wird. Keine Notwendigkeit, einen traditionellen Vertrag zu unterzeichnen; der Absender füllt den Smart Contract einfach mit einer Kryptowährung aus, dann verwendet der Smart Contract die Währung (Bitcoin kann ein Beispiel sein), um alles abzuwickeln.
+
+Mit anderen Worten, ein Smart Contract führt das aus, was in seinem Code geschrieben ist, solange bestimmte Bedingungen erfüllt sind. Das macht Transaktionen transparent, manipulationssicher, schnell und irreversibel. Darüber hinaus ist die Anwesenheit einer zentralen Behörde nicht erforderlich. Es ist einfach ein Code, der zwei Parteien hilft, ohne Zwischenhändler zusammenzuarbeiten.
+Das Konzept der Smart Contracts gibt es seit über zwanzig Jahren, aber erst mit dem Aufkommen der Blockchain wurde es in großem Umfang eingesetzt.
+
+Smart Contracts können für den Austausch von Geld, Waren oder anderen Vermögenswerten sehr praktisch sein, was dazu beiträgt, Geschäftsprozesse zu rationalisieren und Wartezeiten für die Validierung, die Rückverfolgung von Lagerbeständen, die Automatisierung von Dividendenzahlungen oder die Kontrolle personenbezogener Daten zu vermeiden. Sie können in den Bereichen Finanzen, Energie, Immobilien, Gesundheitswesen, Medien, Unterhaltung und Regierung eingesetzt werden.
+
+Es wird erwartet, dass die Nachfrage nach Smart Contracts im Zusammenhang mit der Entwicklung des Internets der Dinge (IoT) zunehmen wird. Darüber hinaus sind Smart Contracts und ICOs eng miteinander verknüpft, da letztere Smart Contracts verwenden, um den Währungsaustausch zu erleichtern.
+
+Allerdings stehen Smart Contracts erst am Anfang und es gibt noch viele Fragen, die angegangen werden müssen, angefangen bei der Sicherheit. Stellen Sie sich einen Smart Contract vor, der große Sicherheitslücken aufweist, aber nicht schnell behoben werden kann ... Es gibt auch Fragen der Regulierung und die rechtlichen Aspekte von Smart Contracts.
+
+Ethereum Smart Contracts sind die beliebtesten.
 \chapter{Konsensalgorithmus}
 \newline
-Ein Konsens-Algorithmus ist ein Mechanismus, der es Benutzern oder Maschinen ermöglicht, sich in einer verteilten Umgebung zu koordinieren. Er muss sicherstellen, dass sich alle Agenten im System auf eine einzige Quelle der Wahrheit einigen können, selbst wenn einige Agenten versagen. Mit anderen Worten, das System muss fehlertolerant sein. \cite{Binance21}
+Laut Binance Academy ist Ein Konsens-Algorithmus ein Mechanismus, der es Benutzern oder Maschinen ermöglicht, sich in einer verteilten Umgebung zu koordinieren. Er muss sicherstellen, dass sich alle Agenten im System auf eine einzige Quelle der Wahrheit einigen können, selbst wenn einige Agenten versagen. Mit anderen Worten, das System muss fehlertolerant sein. \cite{Binance21}
 \newline
 Da Blockchain dezentral funktioniert und großvolumige Transaktionen in Echtzeit aufzeichnet, kann die Komplexität der Wahrheit bestehen. Der Schlüssel besteht darin, auf die eine oder andere Weise einen Konsens zu erzielen, da sonst böswillige Dinge wie Double-Spend-Angriffe auftreten können. Hier kommt der Konsensalgorithmus ins Spiel.
 \newline
-Ein Konsensalgorithmus ist ein Mechanismus in der Informatik, der verwendet wird, um eine Übereinstimmung über einen einzelnen Datenwert über verteilte Prozesse oder Systeme hinweg herzustellen. Ein Konsensalgorithmus ist ein Protokoll, durch das alle Parteien des Blockchain-Netzwerks eine gemeinsame Vereinbarung (Konsens) über den aktuellen Datenzustand des Ledgers treffen und unbekannten Peers in einer verteilten Computerumgebung vertrauen können.
+
 \newline
 Für Blockchain-Netzwerke sind die Konsensalgorithmen ein wesentliches Element, da sie die Integrität und Sicherheit dieser verteilten Computersysteme aufrechterhalten. Die beiden Haupttypen dieses Algorithmus sind Proof of Work und Proof of Stake. Und dieses Bild erklärt sie beide.
 \newline
