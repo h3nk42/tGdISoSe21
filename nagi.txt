@@ -19,9 +19,9 @@ Und Bitcoin ist nur eine von vielen Anwendungen der Blockchain. Daher werde ich 
 
 
 
-Ein Smart Contract ist ein Computercode, der die Ausführung bestimmter vertraglicher Vereinbarungen vereinfacht, indem er die Notwendigkeit eines Vermittlers überflüssig macht. Smart Contracts sind eng mit der Blockchain-Technologie verknüpft, da diese die Plattform ist, auf der sie basieren. Mit anderen Worten, Smart Contracts befinden sich in der Blockchain. Es gibt unzählige auf Smart Contracts basierende Anwendungen und viele Einsatzmöglichkeiten.
+Ein Smart Contract \cite{CW18} ist ein Computercode, der die Ausführung bestimmter vertraglicher Vereinbarungen vereinfacht, indem er die Notwendigkeit eines Vermittlers überflüssig macht. Smart Contracts sind eng mit der Blockchain-Technologie verknüpft, da diese die Plattform ist, auf der sie basieren. Mit anderen Worten, Smart Contracts befinden sich in der Blockchain. Es gibt unzählige auf Smart Contracts basierende Anwendungen und viele Einsatzmöglichkeiten.
 
-Lieferdienste sind ein Beispiel für eine Aktivität, bei der Smart Contracts leicht angewendet werden könnten. Ein Smart Contract würde sicherstellen, dass das Geld erst nach der tatsächlichen Zustellung des Pakets an den Lieferdienst gesendet wird. Keine Notwendigkeit, einen traditionellen Vertrag zu unterzeichnen; der Absender füllt den Smart Contract einfach mit einer Kryptowährung aus, dann verwendet der Smart Contract die Währung (Bitcoin kann ein Beispiel sein), um alles abzuwickeln.
+Lieferdienste sind ein Beispiel für eine Aktivität, bei der Smart Contracts leicht angewendet werden könnten. Ein Smart Contract würde sicherstellen, dass das Geld erst nach der tatsächlichen Zustellung des Pakets an den Lieferdienst gesendet wird. Es ist nicht mehr notwendig, einen traditionellen Vertrag zu unterzeichnen; der Absender füllt den Smart Contract einfach mit einer Kryptowährung aus, dann verwendet der Smart Contract die Währung (Bitcoin kann ein Beispiel sein), um alles abzuwickeln.
 
 Mit anderen Worten, ein Smart Contract führt das aus, was in seinem Code geschrieben ist, solange bestimmte Bedingungen erfüllt sind. Das macht Transaktionen transparent, manipulationssicher, schnell und irreversibel. Darüber hinaus ist die Anwesenheit einer zentralen Behörde nicht erforderlich. Es ist einfach ein Code, der zwei Parteien hilft, ohne Zwischenhändler zusammenzuarbeiten.
 Das Konzept der Smart Contracts gibt es seit über zwanzig Jahren, aber erst mit dem Aufkommen der Blockchain wurde es in großem Umfang eingesetzt.
@@ -33,6 +33,8 @@ Es wird erwartet, dass die Nachfrage nach Smart Contracts im Zusammenhang mit de
 Allerdings stehen Smart Contracts erst am Anfang und es gibt noch viele Fragen, die angegangen werden müssen, angefangen bei der Sicherheit. Stellen Sie sich einen Smart Contract vor, der große Sicherheitslücken aufweist, aber nicht schnell behoben werden kann ... Es gibt auch Fragen der Regulierung und die rechtlichen Aspekte von Smart Contracts.
 
 Ethereum Smart Contracts sind die beliebtesten.
+
+\newline
 \chapter{Konsensalgorithmus}
 \newline
 Laut Binance Academy ist Ein Konsens-Algorithmus ein Mechanismus, der es Benutzern oder Maschinen ermöglicht, sich in einer verteilten Umgebung zu koordinieren. Er muss sicherstellen, dass sich alle Agenten im System auf eine einzige Quelle der Wahrheit einigen können, selbst wenn einige Agenten versagen. Mit anderen Worten, das System muss fehlertolerant sein. \cite{Binance21}
