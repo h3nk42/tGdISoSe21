@@ -1,25 +1,25 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[66] biber:322> INFO - === Fr Jun  4, 2021, 14:32:58
-[78] Biber.pm:415> INFO - Reading 'main.bcf'
-[136] Biber.pm:943> INFO - Found 21 citekeys in bib section 0
-[148] Biber.pm:4256> INFO - Processing section 0
-[149] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
-[149] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
-[158] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
-[161] bibtex.pm:1653> INFO - LaTeX decoding ...
-[227] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
-[228] Utils.pm:293> WARN - Duplicate entry key: 'de_vries_renewable_2019' in file 'references/references.bib', skipping ...
-[277] Utils.pm:293> WARN - year field '/' in entry 'arpanet' is not an integer - this will probably not sort properly.
-[288] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
-[294] Utils.pm:293> WARN - Entry 'bitcoin' (references/references.bib): Invalid format '2021-05-1' of date field 'urldate' - ignoring
-[326] Utils.pm:293> WARN - month field 'apr' in entry 'de_vries_renewable_2019' is not an integer - this will probably not sort properly.
-[345] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_L42V/references.bib_198001.utf8, line 200, warning: 57 characters of junk seen at toplevel
-[345] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_L42V/references.bib_198001.utf8, line 300, warning: 114 characters of junk seen at toplevel
-[374] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[374] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[374] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[374] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[391] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[397] bbl.pm:755> INFO - Output to main.bbl
-[397] Biber.pm:128> INFO - WARNINGS: 7
+[49] biber:322> INFO - === Sa Jun 12, 2021, 13:43:26
+[58] Biber.pm:415> INFO - Reading 'main.bcf'
+[105] Biber.pm:943> INFO - Found 42 citekeys in bib section 0
+[116] Biber.pm:4256> INFO - Processing section 0
+[116] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
+[116] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
+[123] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
+[126] bibtex.pm:1653> INFO - LaTeX decoding ...
+[186] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
+[187] Utils.pm:293> WARN - Duplicate entry key: 'de_vries_renewable_2019' in file 'references/references.bib', skipping ...
+[188] Utils.pm:293> WARN - Duplicate entry key: 'noauthor_coindesk_2021' in file 'references/references.bib', skipping ...
+[250] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
+[313] Utils.pm:293> WARN - month field 'apr' in entry 'de_vries_renewable_2019' is not an integer - this will probably not sort properly.
+[337] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_fvAP/references.bib_42433.utf8, line 224, warning: 57 characters of junk seen at toplevel
+[337] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_fvAP/references.bib_42433.utf8, line 324, warning: 111 characters of junk seen at toplevel
+[338] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_fvAP/references.bib_42433.utf8, line 637, warning: 110 characters of junk seen at toplevel
+[379] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[379] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[379] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[379] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[408] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[423] bbl.pm:755> INFO - Output to main.bbl
+[423] Biber.pm:128> INFO - WARNINGS: 7

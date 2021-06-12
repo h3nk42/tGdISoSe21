@@ -11,28 +11,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Zentral vs Dezentral - Henk}{5}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Smart Contracts - Henk}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Konsensalgorithmus - Nagi}{7}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Konsensalgorithmus - Nagi}{7}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Chancen und Risiken}{9}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Chancen und Risiken}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Risiko 1 - CO2-Emissionen durch Kryptow\"ahrungen - Samuel}{9}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Risiko 1 - CO2-Emissionen durch Kryptow\"ahrungen - Samuel}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Risiko - Entstehung von Elektrom\"ull - Niels}{12}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Risiko - Entstehung von Elektrom\"ull - Niels}{11}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Smart Contracts - Henk}{15}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Chance: Lieferketten Transparenz - Henk}{13}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Chance: Lieferketten Transparenz - Henk}{15}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Chance 2 - Nagi}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Chance 2 - Blockchain-Technologie in der Energiewirtschaft - Nagi}{17}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{16}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Fazit - Samuel/Niels}{19}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{I}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{I}{chapter*.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Onlinereferenzen}{II}{chapter*.6}%
+\contentsline {chapter}{\nonumberline Onlinereferenzen}{IV}{chapter*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Bildreferenzen}{III}{chapter*.7}%
+\contentsline {chapter}{\nonumberline Bildreferenzen}{VI}{chapter*.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Sonstige Referenzen}{IV}{chapter*.8}%
+\contentsline {chapter}{\nonumberline Paper und Sonstige Referenzen}{VII}{chapter*.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Artikelreferenzen}{V}{chapter*.9}%
+\contentsline {chapter}{\nonumberline Artikelreferenzen}{VIII}{chapter*.11}%

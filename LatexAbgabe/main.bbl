@@ -19,6 +19,265 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{noauthor_coindesk_2021}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{labelalpha}{21}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extraalpha}{1}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The CoinDesk 20 provides real-time prices, news, videos and educational content on the digital assets moving the crypto market, from BTC to TRX.}
+      \field{journaltitle}{CoinDesk}
+      \field{title}{Coindesk {Bitcoin} {Price} {Index}}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/I7HBLRA7/bitcoin.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.coindesk.com/price/bitcoin
+      \endverb
+      \verb{url}
+      \verb https://www.coindesk.com/price/bitcoin
+      \endverb
+    \endentry
+    \entry{Gbtcvsbc21}{online}{}
+      \field{labelalpha}{21}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extraalpha}{2}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Google Trends - Bitcoin vs Blockchain}
+      \field{titleaddon}{Google Trends}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb (https://trends.google.com/trends/explore?q=Bitcoin,Blockchain)
+      \endverb
+      \verb{url}
+      \verb (https://trends.google.com/trends/explore?q=Bitcoin,Blockchain)
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Google_google_2021}{online}{}
+      \field{labelalpha}{21}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extraalpha}{3}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Suchinteresse für "blockchain" nach Zeitraum, Ort und Beliebtheit bei Google Trends erkunden}
+      \field{langid}{german}
+      \field{title}{Google Trends - blockchain (Weltweit)}
+      \field{titleaddon}{Google Trends}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://trends.google.com/trends/explore?date=all&q=blockchain
+      \endverb
+      \verb{url}
+      \verb https://trends.google.com/trends/explore?date=all&q=blockchain
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{adam_konsensmodelle_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4873d367e483beea480acac29e1e6615}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4873d367e483beea480acac29e1e6615}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4873d367e483beea480acac29e1e6615}
+      \strng{fullhash}{4873d367e483beea480acac29e1e6615}
+      \strng{bibnamehash}{4873d367e483beea480acac29e1e6615}
+      \strng{authorbibnamehash}{4873d367e483beea480acac29e1e6615}
+      \strng{authornamehash}{4873d367e483beea480acac29e1e6615}
+      \strng{authorfullhash}{4873d367e483beea480acac29e1e6615}
+      \strng{editorbibnamehash}{4873d367e483beea480acac29e1e6615}
+      \strng{editornamehash}{4873d367e483beea480acac29e1e6615}
+      \strng{editorfullhash}{4873d367e483beea480acac29e1e6615}
+      \field{labelalpha}{Ada20}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die Wahl des passenden Konsensmodells bestimmt die Ausgestaltung der zu verwendenden Blockchain, wobei sich einige Modelle eher für die Nutzung von privaten bzw. konsortialen Ansätzen eignen. Es wird festgelegt, wie die Zusammenarbeit gestaltet ist. Die Rollen, die unterschiedlichen Aufgaben zu erfüllen haben, werden zugewiesen.}
+      \field{booktitle}{Blockchain-Technologie für Unternehmensprozesse: Sinnvolle Anwendung der neuen Technologie in Unternehmen}
+      \field{isbn}{978-3-662-60719-0}
+      \field{title}{Konsensmodelle}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{27\bibrangedash 49}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-662-60719-0_2
+      \endverb
+      \verb{file}
+      \verb Springer Full Text PDF:/Users/samsc/Zotero/storage/6DHLGL2N/Adam - 2020 - Konsensmodelle.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-60719-0_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-60719-0_2
+      \endverb
+    \endentry
+    \entry{cambridge_cambridge_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=883d654b5df52248de95b98e67036c4b}{%
+           family={Alternative\bibnamedelima Finance},
+           familyi={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Cambridge\bibnamedelima Center},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \strng{namehash}{883d654b5df52248de95b98e67036c4b}
+      \strng{fullhash}{883d654b5df52248de95b98e67036c4b}
+      \strng{bibnamehash}{883d654b5df52248de95b98e67036c4b}
+      \strng{authorbibnamehash}{883d654b5df52248de95b98e67036c4b}
+      \strng{authornamehash}{883d654b5df52248de95b98e67036c4b}
+      \strng{authorfullhash}{883d654b5df52248de95b98e67036c4b}
+      \field{labelalpha}{Alt21}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Cambridge Bitcoin Electricity Consumption Index}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cbeci.org
+      \endverb
+      \verb{url}
+      \verb https://cbeci.org
+      \endverb
+    \endentry
+    \entry{andoni_blockchain_2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d05005edc5812b93cd7b04597a0211d8}{%
+           family={Andoni},
+           familyi={A\bibinitperiod},
+           given={Merlinda},
+           giveni={M\bibinitperiod}}}%
+        {{hash=17eae82bf918cce6367751ff51cd57a6}{%
+           family={Robu},
+           familyi={R\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8203c46986abcdec01a47dbe2854f9f6}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=040b7c473c4a3f7a9466015f4d0c7e2a}{%
+           family={Abram},
+           familyi={A\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c40c0ecba4e67646f087f6782db2fd2}{%
+           family={Geach},
+           familyi={G\bibinitperiod},
+           given={Dale},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2cfa9cf146c87f3c606e174664a17d30}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=20566c66764b9044eed72e112d89facf}{%
+           family={McCallum},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=79a1af631bb5aee1a6baf85c693a6e47}{%
+           family={Peacock},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{69ede6bc161c36b01f8aa6de0955d701}
+      \strng{fullhash}{6ef399527f31304b230c2a6d94eabecb}
+      \strng{bibnamehash}{69ede6bc161c36b01f8aa6de0955d701}
+      \strng{authorbibnamehash}{69ede6bc161c36b01f8aa6de0955d701}
+      \strng{authornamehash}{69ede6bc161c36b01f8aa6de0955d701}
+      \strng{authorfullhash}{6ef399527f31304b230c2a6d94eabecb}
+      \field{labelalpha}{And19}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Blockchains or distributed ledgers are an emerging technology that has drawn considerable interest from energy supply firms, startups, technology developers, financial institutions, national governments and the academic community. Numerous sources coming from these backgrounds identify blockchains as having the potential to bring significant benefits and innovation. Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as system architectures and distributed consensus algorithms. Next, we focus on blockchain solutions for the energy industry and inform the state-of-the-art by thoroughly reviewing the literature and current business cases. To our knowledge, this is one of the first academic, peer-reviewed works to provide a systematic review of blockchain activities and initiatives in the energy sector. Our study reviews 140 blockchain research projects and startups from which we construct a map of the potential and relevance of blockchains for energy applications. These initiatives were systematically classified into different groups according to the field of activity, implementation platform and consensus strategy used.11A summary of the research projects reviewed in this study can be found in the Appendix A. Opportunities, potential challenges and limitations for a number of use cases are discussed, ranging from emerging peer-to-peer (P2P) energy trading and Internet of Things (IoT) applications, to decentralised marketplaces, electric vehicle charging and e-mobility. For each of these use cases, our contribution is twofold: first, in identifying the technical challenges that blockchain technology can solve for that application as well as its potential drawbacks, and second in briefly presenting the research and industrial projects and startups that are currently applying blockchain technology to that area. The paper ends with a discussion of challenges and market barriers the technology needs to overcome to get past the hype phase, prove its commercial viability and finally be adopted in the mainstream.}
+      \field{issn}{1364-0321}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{month}{2}
+      \field{shorttitle}{Blockchain technology in the energy sector}
+      \field{title}{Blockchain technology in the energy sector: A systematic review of challenges and opportunities}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{100}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 174}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1016/j.rser.2018.10.014
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/Users/samsc/Zotero/storage/5I4MCSAI/Andoni et al. - 2019 - Blockchain technology in the energy sector A syst.pdf:application/pdf;ScienceDirect Snapshot:/Users/samsc/Zotero/storage/QB5C2XT7/S1364032118307184.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032118307184
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032118307184
+      \endverb
+      \keyw{Blockchain,Distributed ledger,Energy decentralisation,Peer-to-peer energy trading,Prosumer,Renewable energy}
+    \endentry
     \entry{blockchaincom_statistic_nodate}{misc}{}
       \name{author}{1}{}{%
         {{hash=49fc849b8c76e2197167dbd314b0509b}{%
@@ -87,6 +346,68 @@
       \endverb
       \keyw{online}
     \endentry
+    \entry{calvo-pardo_machine_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e67522b4daeb0711434a11a224ffcef6}{%
+           family={Calvo-Pardo},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Hector\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f88fc6c56df7ba4e19675acf07dd048b}{%
+           family={Mancini},
+           familyi={M\bibinitperiod},
+           given={Tullio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=623dfa0faf6ff8fe7250586483bf5165}{%
+           family={Olmo},
+           familyi={O\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{09995bbb4a30241f3e12a384841c353f}
+      \strng{fullhash}{09995bbb4a30241f3e12a384841c353f}
+      \strng{bibnamehash}{09995bbb4a30241f3e12a384841c353f}
+      \strng{authorbibnamehash}{09995bbb4a30241f3e12a384841c353f}
+      \strng{authornamehash}{09995bbb4a30241f3e12a384841c353f}
+      \strng{authorfullhash}{09995bbb4a30241f3e12a384841c353f}
+      \field{labelalpha}{CMO20}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Building on an economic model of rational Bitcoin mining, we measure the carbon footprint of Bitcoin mining power consumption using feed-forward neural networks. After reviewing the literature on deep learning methods, we find associated carbon footprints of 3.8038, 23.8313 and 19.83472 MtCOe for 2017, 2018 and 2019, which conform with recent estimates, lie within the economic model bounds while delivering much narrower confidence intervals, and yet raise alarming concerns, given recent evidence from climate-weather integrated models. We demonstrate how machine learning methods can contribute to non-for-profit pressing societal issues, like global warming, where data complexity and availability can be overcome.}
+      \field{month}{7}
+      \field{number}{ID 3647593}
+      \field{title}{Machine Learning the Carbon Footprint of Bitcoin Mining}
+      \field{type}{SSRN Scholarly Paper}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.3647593
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/NV6E288L/papers.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://papers.ssrn.com/abstract=3647593
+      \endverb
+      \verb{url}
+      \verb https://papers.ssrn.com/abstract=3647593
+      \endverb
+      \keyw{Carbon Footprint,Climate Change,Cryptocurrencies,Feed-forward Neural Networks,Machine Learning,Now-casting}
+    \endentry
     \entry{oekologischeN}{online}{}
       \name{author}{1}{}{%
         {{hash=b810a9bc174fb733a33e7aa80abdddca}{%
@@ -120,36 +441,6 @@
       \endverb
       \keyw{image}
     \endentry
-    \entry{bitcoin}{online}{}
-      \name{author}{1}{}{%
-        {{hash=01614c9a20bf2aa76b88817068ed79a0}{%
-           family={DW},
-           familyi={D\bibinitperiod},
-           given={Insa\bibnamedelima Wrede},
-           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \strng{namehash}{01614c9a20bf2aa76b88817068ed79a0}
-      \strng{fullhash}{01614c9a20bf2aa76b88817068ed79a0}
-      \strng{bibnamehash}{01614c9a20bf2aa76b88817068ed79a0}
-      \strng{authorbibnamehash}{01614c9a20bf2aa76b88817068ed79a0}
-      \strng{authornamehash}{01614c9a20bf2aa76b88817068ed79a0}
-      \strng{authorfullhash}{01614c9a20bf2aa76b88817068ed79a0}
-      \field{labelalpha}{DW21}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Der unersättliche Stromfresser: Bitcoin}
-      \field{year}{2021}
-      \verb{urlraw}
-      \verb https://www.dw.com/de/energie-stromverbrauch-bitcoin-mining/a-56589030
-      \endverb
-      \verb{url}
-      \verb https://www.dw.com/de/energie-stromverbrauch-bitcoin-mining/a-56589030
-      \endverb
-      \keyw{online}
-      \warn{\item Entry 'bitcoin' (references/references.bib): Invalid format '2021-05-1' of date field 'urldate' - ignoring}
-    \endentry
     \entry{bitcoinWiki}{online}{}
       \name{author}{1}{}{%
         {{hash=2321c04d9d95c0a9b9c05bc83d8b94d3}{%
@@ -180,36 +471,290 @@
       \keyw{online}
       \warn{\item Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring}
     \endentry
-    \entry{tesla}{online}{}
+    \entry{lieferketteVerbraucherZentrale}{misc}{}
       \name{author}{1}{}{%
-        {{hash=9e0685b599cf0271fbe34255a41dfa82}{%
-           family={FAZ},
-           familyi={F\bibinitperiod}}}%
+        {{hash=d97762d2d9994d37035aaacb27276771}{%
+           family={e.V},
+           familyi={e\bibinitperiod},
+           given={Verbraucherzentrale\bibnamedelima Bundesverband},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
-      \strng{namehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{fullhash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{bibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authorbibnamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authornamehash}{9e0685b599cf0271fbe34255a41dfa82}
-      \strng{authorfullhash}{9e0685b599cf0271fbe34255a41dfa82}
-      \field{labelalpha}{FAZ21}
+      \strng{namehash}{d97762d2d9994d37035aaacb27276771}
+      \strng{fullhash}{d97762d2d9994d37035aaacb27276771}
+      \strng{bibnamehash}{d97762d2d9994d37035aaacb27276771}
+      \strng{authorbibnamehash}{d97762d2d9994d37035aaacb27276771}
+      \strng{authornamehash}{d97762d2d9994d37035aaacb27276771}
+      \strng{authorfullhash}{d97762d2d9994d37035aaacb27276771}
+      \field{labelalpha}{eV20}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Verbraucherzentrale Bundesverband}
+      \field{title}{LIEFERKETTENGESETZ STÄRKT NACHHALTIGEN KONSUM}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vzbv.de/sites/default/files/downloads/2020/11/10/20_10_22_positionspapier_lieferkettengesetz.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.vzbv.de/sites/default/files/downloads/2020/11/10/20_10_22_positionspapier_lieferkettengesetz.pdf
+      \endverb
+    \endentry
+    \entry{forti_global_nodate}{article}{}
+      \name{author}{4}{}{%
+        {{hash=235b9076ea22d321c75fcad0698bec23}{%
+           family={Forti},
+           familyi={F\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3ab5af9029737bcd31a76e288cbdac17}{%
+           family={Baldé},
+           familyi={B\bibinitperiod},
+           given={Cornelis\bibnamedelima Peter},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1f756813133d276d413b0722882de749}{%
+           family={Kuehr},
+           familyi={K\bibinitperiod},
+           given={Ruediger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cc9024fef3bc8d866a37fda8eb5aecab}{%
+           family={Bel},
+           familyi={B\bibinitperiod},
+           given={Garam},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7132bd99a5ba1a2b297eba19582989d7}
+      \strng{fullhash}{e1548d23c4fe574ef2ef2646a1659d68}
+      \strng{bibnamehash}{7132bd99a5ba1a2b297eba19582989d7}
+      \strng{authorbibnamehash}{7132bd99a5ba1a2b297eba19582989d7}
+      \strng{authornamehash}{7132bd99a5ba1a2b297eba19582989d7}
+      \strng{authorfullhash}{e1548d23c4fe574ef2ef2646a1659d68}
+      \field{labelalpha}{For}
       \field{sortinit}{F}
       \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Tesla investiert 1,5 Milliarden Dollar in Bitcoin}
-      \field{urlday}{1}
-      \field{urlmonth}{5}
+      \field{title}{The Global E-waste Monitor 2020}
+      \field{pages}{9\bibrangessep 74}
+      \range{pages}{2}
+    \endentry
+    \entry{WEF_global_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=df7c8e6f0af3115536a5acfc6220cb01}{%
+           family={Forum},
+           familyi={F\bibinitperiod},
+           given={World\bibnamedelima Economic},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {World Economic Forum}%
+      }
+      \strng{namehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{fullhash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{bibnamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authorbibnamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authornamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authorfullhash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \field{labelalpha}{For21}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The 16th edition of the World Economic Forum’s Global Risks Report analyses the risks from societal fractures—manifested through persistent and emerging risks to human health, rising unemployment, widening digital divides, youth disillusionment, and geopolitical fragmentation.}
+      \field{langid}{english}
+      \field{title}{The Global Risks Report 2021}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
       \field{urlyear}{2021}
       \field{year}{2021}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/LRTGG3TP/the-global-risks-report-2021.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \verb https://www.weforum.org/reports/the-global-risks-report-2021/
       \endverb
       \verb{url}
-      \verb https://www.faz.net/aktuell/finanzen/tesla-investiert-1-5-milliarden-dollar-in-bitcoin-17187254.html
+      \verb https://www.weforum.org/reports/the-global-risks-report-2021/
       \endverb
-      \keyw{online}
+    \endentry
+    \entry{Jeff18}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b9b16ace2986aa57cfaef743a76cd839}{%
+           family={Francis},
+           familyi={F\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9b16ace2986aa57cfaef743a76cd839}
+      \strng{fullhash}{b9b16ace2986aa57cfaef743a76cd839}
+      \strng{bibnamehash}{b9b16ace2986aa57cfaef743a76cd839}
+      \strng{authorbibnamehash}{b9b16ace2986aa57cfaef743a76cd839}
+      \strng{authornamehash}{b9b16ace2986aa57cfaef743a76cd839}
+      \strng{authorfullhash}{b9b16ace2986aa57cfaef743a76cd839}
+      \field{labelalpha}{Fra18}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Meet the Teenage Dropout Who Became a Bitcoin Millionaire}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://fee.org/articles/meet-the-teenage-dropout-who-became-a-bitcoin-millionaire/
+      \endverb
+      \verb{url}
+      \verb https://fee.org/articles/meet-the-teenage-dropout-who-became-a-bitcoin-millionaire/
+      \endverb
+    \endentry
+    \entry{gervais_security_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=044061dd8826f333066f6d1eed145f63}{%
+           family={Gervais},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9db756b4afb45bc9028d3cfda282cad5}{%
+           family={Karame},
+           familyi={K\bibinitperiod},
+           given={Ghassan\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=93f51612eb291d72b1f911d9c714e581}{%
+           family={Wüst},
+           familyi={W\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=910b66bc7f94774537a4f43aff23864a}{%
+           family={Glykantzis},
+           familyi={G\bibinitperiod},
+           given={Vasileios},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a13fb3006de9c3cf379e716f4959655b}{%
+           family={Ritzdorf},
+           familyi={R\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod}}}%
+        {{hash=028ff5c4d1eab5a2f2b2a92fb4d9bf88}{%
+           family={Capkun},
+           familyi={C\bibinitperiod},
+           given={Srdjan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{ae3715a12910cc26aeb8afd225e3a3b7}
+      \strng{fullhash}{ca055ef9fc0968ca7221d6db83877009}
+      \strng{bibnamehash}{ae3715a12910cc26aeb8afd225e3a3b7}
+      \strng{authorbibnamehash}{ae3715a12910cc26aeb8afd225e3a3b7}
+      \strng{authornamehash}{ae3715a12910cc26aeb8afd225e3a3b7}
+      \strng{authorfullhash}{ca055ef9fc0968ca7221d6db83877009}
+      \field{labelalpha}{Ger16}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Proof of Work (PoW) powered blockchains currently account for more than 90\% of the total market capitalization of existing digital cryptocurrencies. Although the security provisions of Bitcoin have been thoroughly analysed, the security guarantees of variant (forked) PoW blockchains (which were instantiated with different parameters) have not received much attention in the literature. This opens the question whether existing security analysis of Bitcoin's PoW applies to other implementations which have been instantiated with different consensus and/or network parameters. In this paper, we introduce a novel quantitative framework to analyse the security and performance implications of various consensus and network parameters of PoW blockchains. Based on our framework, we devise optimal adversarial strategies for double-spending and selfish mining while taking into account real world constraints such as network propagation, different block sizes, block generation intervals, information propagation mechanism, and the impact of eclipse attacks. Our framework therefore allows us to capture existing PoW-based deployments as well as PoW blockchain variants that are instantiated with different parameters, and to objectively compare the tradeoffs between their performance and security provisions.}
+      \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{isbn}{978-1-4503-4139-4}
+      \field{month}{10}
+      \field{series}{CCS '16}
+      \field{title}{On the Security and Performance of Proof of Work Blockchains}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 16}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/2976749.2978341
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/samsc/Zotero/storage/BYF5D6KL/Gervais et al. - 2016 - On the Security and Performance of Proof of Work B.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2976749.2978341
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2976749.2978341
+      \endverb
+      \keyw{bitcoin,blockchain,performance,security}
+    \endentry
+    \entry{gallersdorfer_energy_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=93978392548483948e684d350e424eea}{%
+           family={Gallersdörfer},
+           familyi={G\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+        {{hash=f2fa032e00beb9b60bd4558b3baee416}{%
+           family={Klaaßen},
+           familyi={K\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e99701c571e1539770399efbd57963d6}{%
+           family={Stoll},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e3290290b4eb12641c1775c16696428e}
+      \strng{fullhash}{e3290290b4eb12641c1775c16696428e}
+      \strng{bibnamehash}{e3290290b4eb12641c1775c16696428e}
+      \strng{authorbibnamehash}{e3290290b4eb12641c1775c16696428e}
+      \strng{authornamehash}{e3290290b4eb12641c1775c16696428e}
+      \strng{authorfullhash}{e3290290b4eb12641c1775c16696428e}
+      \field{labelalpha}{GKS20}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ulrich Gallersdörfer is a research associate in the Department of Informatics at the Technical University of Munich. His research focuses on identity management in blockchains. His interest extends to further aspects of the technology, ranging from environmental implications to data analytics applications. Lena Klaaßen is a graduate student at TUM School of Management at the Technical University of Munich. She is specialized in energy markets and accounting. Her research focuses on carbon accounting in the corporate and cryptocurrency space. She has previously analyzed blockchain-related firms for a venture capital fund. Christian Stoll conducts research at the Center for Energy and Environmental Policy Research at the Massachusetts Institute of Technology and at the Center for Energy Markets of the Technical University of Munich. His research focuses on the implications of climate change from an economic point of view.}
+      \field{issn}{2542-4351}
+      \field{journaltitle}{Joule}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Energy Consumption of Cryptocurrencies Beyond Bitcoin}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1843\bibrangedash 1846}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.joule.2020.07.013
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/Users/samsc/Zotero/storage/AYU4DLQL/S2542435120303317.html:text/html;Volltext:/Users/samsc/Zotero/storage/JQ6BE294/Gallersdörfer et al. - 2020 - Energy Consumption of Cryptocurrencies Beyond Bitc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2542435120303317
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2542435120303317
+      \endverb
     \endentry
     \entry{doi:nachhaltig}{article}{}
       \name{author}{1}{}{%
@@ -243,6 +788,39 @@
       \verb{url}
       \verb https://www.kohlhammer.de/wms/instances/KOB/appDE/Natur-und-Landschaft-88-2013-02
       \endverb
+    \endentry
+    \entry{arpanet}{online}{}
+      \name{author}{1}{}{%
+        {{hash=dabfdf5c592d6195646f27bf56bba0ff}{%
+           family={Hauben},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \strng{fullhash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \strng{bibnamehash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \strng{authorbibnamehash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \strng{authornamehash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \strng{authorfullhash}{dabfdf5c592d6195646f27bf56bba0ff}
+      \field{labelalpha}{Hau95}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Behind the Net: The Untold History of the ARPANET and Computer Science}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.columbia.edu/~rh120/ch106.x07
+      \endverb
+      \verb{url}
+      \verb http://www.columbia.edu/~rh120/ch106.x07
+      \endverb
+      \keyw{online}
     \endentry
     \entry{hoffman_chia_2021}{misc}{}
       \name{author}{1}{}{%
@@ -321,6 +899,36 @@
       \verb https://github.com/Chia-Network/chia-blockchain
       \endverb
     \endentry
+    \entry{CW21}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8ad1e46b5b11fb7be0e7586b7ddbc549}{%
+           family={Hülsbömer},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \strng{fullhash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \strng{bibnamehash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \strng{authorbibnamehash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \strng{authornamehash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \strng{authorfullhash}{8ad1e46b5b11fb7be0e7586b7ddbc549}
+      \field{labelalpha}{Hül21}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Was ist Blockchain?}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.computerwoche.de/a/blockchain-was-ist-das,3227284
+      \endverb
+      \verb{url}
+      \verb https://www.computerwoche.de/a/blockchain-was-ist-das,3227284
+      \endverb
+    \endentry
     \entry{vechain}{online}{}
       \name{author}{1}{}{%
         {{hash=f00ea975780bafde2a5db61a9f835f68}{%
@@ -354,36 +962,40 @@
       \endverb
       \keyw{online}
     \endentry
-    \entry{arpanet}{online}{}
+    \entry{IEA_global_2021}{online}{}
       \name{author}{1}{}{%
-        {{hash=b9f9806583a06be6ff290de671271720}{%
-           family={internet},
-           familyi={i\bibinitperiod},
-           prefix={living},
-           prefixi={l\bibinitperiod}}}%
+        {{hash=18fdbec513c87989c7580f31bb7f03ab}{%
+           family={IEA},
+           familyi={I\bibinitperiod}}}%
       }
-      \strng{namehash}{b9f9806583a06be6ff290de671271720}
-      \strng{fullhash}{b9f9806583a06be6ff290de671271720}
-      \strng{bibnamehash}{b9f9806583a06be6ff290de671271720}
-      \strng{authorbibnamehash}{b9f9806583a06be6ff290de671271720}
-      \strng{authornamehash}{b9f9806583a06be6ff290de671271720}
-      \strng{authorfullhash}{b9f9806583a06be6ff290de671271720}
-      \field{labelalpha}{int}
-      \field{sortinit}{i}
+      \strng{namehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{fullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{bibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \field{labelalpha}{IEA21}
+      \field{sortinit}{I}
       \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ARPANET – The First Internet}
-      \field{urlday}{26}
-      \field{urlmonth}{5}
+      \field{abstract}{Global Energy Review: CO2 Emissions in 2020 - Analysis and findings. An article by the International Energy Agency.}
+      \field{langid}{british}
+      \field{title}{Global Energy Review: CO2 Emissions in 2020 – Analysis}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
       \field{urlyear}{2021}
-      \field{year}{/}
+      \field{year}{2021}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/LUTW9GGE/global-energy-review-co2-emissions-in-2020.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://www.livinginternet.com/i/ii_arpanet.htm
+      \verb https://www.iea.org/articles/global-energy-review-co2-emissions-in-2020
       \endverb
       \verb{url}
-      \verb https://www.livinginternet.com/i/ii_arpanet.htm
+      \verb https://www.iea.org/articles/global-energy-review-co2-emissions-in-2020
       \endverb
       \keyw{online}
     \endentry
@@ -453,38 +1065,82 @@
       \endverb
       \keyw{online}
     \endentry
-    \entry{miningChina}{online}{}
+    \entry{ovide_what_2021}{article}{}
       \name{author}{1}{}{%
-        {{hash=df547b6344715efeacfeb2c04e138f99}{%
-           family={Peck},
-           familyi={P\bibinitperiod},
-           given={Morgen\bibnamedelima E.},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5a0f955747515e59459a96e9824faff3}{%
+           family={Ovide},
+           familyi={O\bibinitperiod},
+           given={Shira},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{df547b6344715efeacfeb2c04e138f99}
-      \strng{fullhash}{df547b6344715efeacfeb2c04e138f99}
-      \strng{bibnamehash}{df547b6344715efeacfeb2c04e138f99}
-      \strng{authorbibnamehash}{df547b6344715efeacfeb2c04e138f99}
-      \strng{authornamehash}{df547b6344715efeacfeb2c04e138f99}
-      \strng{authorfullhash}{df547b6344715efeacfeb2c04e138f99}
-      \field{labelalpha}{Pec17}
+      \strng{namehash}{5a0f955747515e59459a96e9824faff3}
+      \strng{fullhash}{5a0f955747515e59459a96e9824faff3}
+      \strng{bibnamehash}{5a0f955747515e59459a96e9824faff3}
+      \strng{authorbibnamehash}{5a0f955747515e59459a96e9824faff3}
+      \strng{authornamehash}{5a0f955747515e59459a96e9824faff3}
+      \strng{authorfullhash}{5a0f955747515e59459a96e9824faff3}
+      \field{labelalpha}{Ovi21}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A technology based on a decentralized network may offer more control over what people do online.}
+      \field{day}{26}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{The New York Times}
+      \field{langid}{american}
+      \field{month}{1}
+      \field{shorttitle}{What is a Blockchain?}
+      \field{title}{What is a Blockchain? Is It Hype?}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/72NWWVGT/what-is-blockchain.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2021/01/26/technology/what-is-blockchain.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2021/01/26/technology/what-is-blockchain.html
+      \endverb
+      \keyw{Bitcoin (Currency),Blockchain (Technology),Computers and the Internet}
+    \endentry
+    \entry{censorship}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=de7b0e512fcdd087f5750837f7c7cb9f}{%
+           family={Poor},
+           familyi={P\bibinitperiod},
+           given={H.\bibnamedelimi Vincent},
+           giveni={H\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \strng{fullhash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \strng{bibnamehash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \strng{authorbibnamehash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \strng{authornamehash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \strng{authorfullhash}{de7b0e512fcdd087f5750837f7c7cb9f}
+      \field{labelalpha}{Poo12}
       \field{sortinit}{P}
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Why the Biggest Bitcoin Mines Are in China}
-      \field{urlday}{26}
+      \field{journaltitle}{Chia Network}
+      \field{title}{A Taxonomy of Internet Censorship and Anti-Censorship}
+      \field{urlday}{28}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
-      \field{year}{2017}
+      \field{year}{2012}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china
+      \verb https://www.researchgate.net/publication/228451403_A_Taxonomy_of_Internet_Censorship_and_Anti-Censorship
       \endverb
       \verb{url}
-      \verb https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china
+      \verb https://www.researchgate.net/publication/228451403_A_Taxonomy_of_Internet_Censorship_and_Anti-Censorship
       \endverb
-      \keyw{online}
     \endentry
     \entry{michel_rauchs_cbeci_nodate}{misc}{}
       \name{author}{4}{}{%
@@ -535,6 +1191,236 @@
       \endverb
       \verb{url}
       \verb https://docs.google.com/spreadsheets/d/1ciqka_-t0zDSOVyB4yhVZBfLFGKwJMlQ2EwA0CB1ljM/edit
+      \endverb
+    \endentry
+    \entry{schar_understanding_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e71f1627560989b3c9412016047f4f6e}{%
+           family={Schär},
+           familyi={S\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Crypto Finance Conference}%
+      }
+      \list{location}{1}{%
+        {St. Moritz}%
+      }
+      \strng{namehash}{e71f1627560989b3c9412016047f4f6e}
+      \strng{fullhash}{e71f1627560989b3c9412016047f4f6e}
+      \strng{bibnamehash}{e71f1627560989b3c9412016047f4f6e}
+      \strng{authorbibnamehash}{e71f1627560989b3c9412016047f4f6e}
+      \strng{authornamehash}{e71f1627560989b3c9412016047f4f6e}
+      \strng{authorfullhash}{e71f1627560989b3c9412016047f4f6e}
+      \field{labelalpha}{Sch20}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bitcoin's growth rate is about to half. Once every 210,000 blocks - that is approximately every 4 years - the rate at which new Bitcoin units are issued is cut in half. From block 0 to block 209,999, each block brought 50 new Bitcoin units into circulation. Between blocks 210,000 and 419,999, the reward was 25 Bitcoin units. Currently, the amount is 12.5 Bitcoin units. In less than a month, most likely on May 12th, the block reward will decrease once again to 6.25. In this article we take a closer look at the Bitcoin halving and tackle some common misconceptions surrounding this event.}
+      \field{month}{4}
+      \field{title}{Understanding the Bitcoin Halving}
+      \field{type}{Working Paper}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/Z82JZMTG/80296.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://edoc.unibas.ch/80296/
+      \endverb
+      \verb{url}
+      \verb https://edoc.unibas.ch/80296/
+      \endverb
+    \endentry
+    \entry{schinckus_good_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c75d6b32e6f00745120d666eccba3745}{%
+           family={Schinckus},
+           familyi={S\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c75d6b32e6f00745120d666eccba3745}
+      \strng{fullhash}{c75d6b32e6f00745120d666eccba3745}
+      \strng{bibnamehash}{c75d6b32e6f00745120d666eccba3745}
+      \strng{authorbibnamehash}{c75d6b32e6f00745120d666eccba3745}
+      \strng{authornamehash}{c75d6b32e6f00745120d666eccba3745}
+      \strng{authorfullhash}{c75d6b32e6f00745120d666eccba3745}
+      \field{labelalpha}{Sch20}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Blockchain is a buzzword describing the current excitement for an innovative technology that could change and disrupt major industries and economic sectors. Blockchain technology has the promise to change all existing business models and make financial services cheaper contributing therefore to a better financial inclusion and, even a better economic wealth distribution. Numerous studies optimistically praise such potential societal benefits by listing all processes that could be optimized through this technology. However, the picture is not necessary all bright. Blockchain can indeed disrupt and significantly improve our societies but there still exist some societal costs in the way this technology is implemented. This paper provides a perspective overviewing of the current trends related to the development of the most widely used implementation of blockchain technology based on the proof-of-work consensus algorithm. These trends will be discussed in three steps: the ‘Good Blockchain’ overviews how this technology can improve our societies; the ‘Bad blockchain’ offers a more nuanced perspective by discussing the potential polluting activities generated by some mining activities. Finally, the ‘Ugly blockchain’ investigates how this technology might generate a risk of concentration in the mining industry affecting therefore the nature and even the existence of the blockchain technology.}
+      \field{issn}{2214-6296}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{month}{11}
+      \field{shorttitle}{The good, the bad and the ugly}
+      \field{title}{The good, the bad and the ugly: An overview of the sustainability of blockchain technology}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{69}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101614}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.erss.2020.101614
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/Users/samsc/Zotero/storage/NS4RMBBR/S2214629620301894.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214629620301894
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214629620301894
+      \endverb
+      \keyw{Blockchain,FinTech,Innovation,Mining industry,Proof-of-Work}
+    \endentry
+    \entry{shermin_blockchain_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b1fddbc43e4569a9326c3928fb447da3}{%
+           family={Shermin},
+           familyi={S\bibinitperiod},
+           given={Voshmgir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1fddbc43e4569a9326c3928fb447da3}
+      \strng{fullhash}{b1fddbc43e4569a9326c3928fb447da3}
+      \strng{bibnamehash}{b1fddbc43e4569a9326c3928fb447da3}
+      \strng{authorbibnamehash}{b1fddbc43e4569a9326c3928fb447da3}
+      \strng{authornamehash}{b1fddbc43e4569a9326c3928fb447da3}
+      \strng{authorfullhash}{b1fddbc43e4569a9326c3928fb447da3}
+      \field{labelalpha}{She19}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Definition Blockchain: enables P2P value transactions without a middleman, next generation Internet, web3, trustless trust, machine consensus, Bitcoin}
+      \field{langid}{american}
+      \field{title}{Blockchain Explained - Intro - Beginners Guide to Blockchain}
+      \field{titleaddon}{{BlockchainHub}}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/KY47JNA7/blockchain-intro.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://blockchainhub.net/blockchain-intro/
+      \endverb
+      \verb{url}
+      \verb https://blockchainhub.net/blockchain-intro/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{supplyChainPaper}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=618224312527bfa8efd2c7c4649305d8}{%
+           family={Sily\bibnamedelima Johny},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={C.\bibnamedelimi Priyadharsini},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{618224312527bfa8efd2c7c4649305d8}
+      \strng{fullhash}{618224312527bfa8efd2c7c4649305d8}
+      \strng{bibnamehash}{618224312527bfa8efd2c7c4649305d8}
+      \strng{authorbibnamehash}{618224312527bfa8efd2c7c4649305d8}
+      \strng{authornamehash}{618224312527bfa8efd2c7c4649305d8}
+      \strng{authorfullhash}{618224312527bfa8efd2c7c4649305d8}
+      \field{labelalpha}{Sil}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigations on the Implementation of Blockchain Technology in Supplychain Network}
+      \field{type}{Scientific Paper}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9441820
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9441820
+      \endverb
+    \endentry
+    \entry{stoll_carbon_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e99701c571e1539770399efbd57963d6}{%
+           family={Stoll},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f2fa032e00beb9b60bd4558b3baee416}{%
+           family={Klaaßen},
+           familyi={K\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=93978392548483948e684d350e424eea}{%
+           family={Gallersdörfer},
+           familyi={G\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fb3ab4ec1c53393033411cedb29a4197}
+      \strng{fullhash}{fb3ab4ec1c53393033411cedb29a4197}
+      \strng{bibnamehash}{fb3ab4ec1c53393033411cedb29a4197}
+      \strng{authorbibnamehash}{fb3ab4ec1c53393033411cedb29a4197}
+      \strng{authornamehash}{fb3ab4ec1c53393033411cedb29a4197}
+      \strng{authorfullhash}{fb3ab4ec1c53393033411cedb29a4197}
+      \field{labelalpha}{SKG19}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Participation in the Bitcoin blockchain validation process requires specialized hardware and vast amounts of electricity, which translates into a significant carbon footprint. Here, we demonstrate a methodology for estimating the power consumption associated with Bitcoin’s blockchain based on IPO filings of major hardware manufacturers, insights on mining facility operations, and mining pool compositions. We then translate our power consumption estimate into carbon emissions, using the localization of IP addresses. We determine the annual electricity consumption of Bitcoin, as of November 2018, to be 45.8 TWh and estimate that annual carbon emissions range from 22.0 to 22.9 MtCO2. This means that the emissions produced by Bitcoin sit between the levels produced by the nations of Jordan and Sri Lanka, which is comparable to the level of Kansas City. With this article, we aim to gauge the external costs of Bitcoin and inform the broader debate on the costs and benefits of cryptocurrencies.}
+      \field{issn}{2542-4351}
+      \field{journaltitle}{Joule}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{The Carbon Footprint of Bitcoin}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1647\bibrangedash 1661}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.joule.2019.05.012
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/Users/samsc/Zotero/storage/HPKSTSFE/Stoll et al. - 2019 - The Carbon Footprint of Bitcoin.pdf:application/pdf;ScienceDirect Snapshot:/Users/samsc/Zotero/storage/AGS9RXRP/S2542435119302557.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2542435119302557
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2542435119302557
       \endverb
     \endentry
     \entry{taylor_evolution_2017}{article}{}
@@ -736,6 +1622,7 @@
       \field{labelalpha}{Vri19}
       \field{sortinit}{V}
       \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extraalpha}{1}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{25424351}
@@ -760,6 +1647,97 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S254243511930087X
       \endverb
+    \endentry
+    \entry{vries_renewable_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=54070f0704c7007af5cb9964d980c859}{%
+           family={Vries},
+           familyi={V\bibinitperiod},
+           given={Alex\bibnamedelima de},
+           giveni={A\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{fullhash}{54070f0704c7007af5cb9964d980c859}
+      \strng{bibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorbibnamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authornamehash}{54070f0704c7007af5cb9964d980c859}
+      \strng{authorfullhash}{54070f0704c7007af5cb9964d980c859}
+      \field{labelalpha}{Vri19}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2542-4785, 2542-4351}
+      \field{journaltitle}{Joule}
+      \field{month}{4}
+      \field{note}{Publisher: Elsevier}
+      \field{number}{4}
+      \field{title}{Renewable Energy Will Not Solve Bitcoin’s Sustainability Problem}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{893\bibrangedash 898}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.joule.2019.02.007
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/samsc/Zotero/storage/DNMWU9AZ/Vries - 2019 - Renewable Energy Will Not Solve Bitcoin’s Sustaina.pdf:application/pdf;Snapshot:/Users/samsc/Zotero/storage/QPNDDV5Q/S2542-4351(19)30087-X.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cell.com/joule/abstract/S2542-4351(19)30087-X
+      \endverb
+      \verb{url}
+      \verb https://www.cell.com/joule/abstract/S2542-4351(19)30087-X
+      \endverb
+    \endentry
+    \entry{waters_musk_2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e121c794d4080899a4a4a7427cd3101e}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e121c794d4080899a4a4a7427cd3101e}
+      \strng{fullhash}{e121c794d4080899a4a4a7427cd3101e}
+      \strng{bibnamehash}{e121c794d4080899a4a4a7427cd3101e}
+      \strng{authorbibnamehash}{e121c794d4080899a4a4a7427cd3101e}
+      \strng{authornamehash}{e121c794d4080899a4a4a7427cd3101e}
+      \strng{authorfullhash}{e121c794d4080899a4a4a7427cd3101e}
+      \field{labelalpha}{Wat21}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cryptocurrency’s price falls after chief executive goes from evangelist to critic, citing environmental impact}
+      \field{day}{12}
+      \field{langid}{british}
+      \field{month}{5}
+      \field{title}{Musk says Tesla no longer plans to accept payment in bitcoin}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/samsc/Zotero/storage/MPS4ED8B/052853fa-9816-4624-8dd3-6321c01ac875.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ft.com/content/052853fa-9816-4624-8dd3-6321c01ac875
+      \endverb
+      \verb{url}
+      \verb https://www.ft.com/content/052853fa-9816-4624-8dd3-6321c01ac875
+      \endverb
+      \keyw{online}
     \endentry
   \enddatalist
 \endrefsection
