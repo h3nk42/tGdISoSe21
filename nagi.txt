@@ -1,7 +1,10 @@
 \chapter{Mehr als nur bitcoin}
 \newline
-Wenn man sich die Statik anschaut oder die Leute direkt fragt, ist das eher Bitcoin oder Blockchain bekannt. Die Antwort dafür ist klar \cite{Gbtcvsbc21}: Mit der Währung Bitcoin kann man etwas anfangen. Und ohne die Blockchain-Technologie gäbe es kein Bitcoin. Und die meisten Leute, die eine Vorstellung davon haben, was Blockchain ist, finden es schwierig zu erklären, was es genau ist. Bitcoin ist als Kryptowährung bekannt, die einige Menschen in kurzer Zeit sehr reich gemacht hat. Daher können wir verstehen, warum Blockchain weniger bekannt ist als Bitcoin.
-\newline
+Beim Blick auf die Statistik wird ersichtlich, dass Bitcoin deutlich bekannter ist als die dahinter liegende Blockchaintechnologie \cite{Gbtcvsbc21}. Ohne die Blockchaintechnologie gäbe es die Kryptowährung Bitcoin nicht. Jedoch ist die Technologie für den Mainstream schwieriger greifbar als die Währung, die einige Menschen in kurzer Zeit reich gemacht hat. Aber auch für Kenner ist die Erläuterung der Blockchain nicht einfach. \newline
+
+%Mit der Währung Bitcoin kann man etwas anfangen. Und ohne die Blockchain-Technologie gäbe es kein Bitcoin. Und die meisten Leute, die eine Vorstellung davon haben, was Blockchain ist, finden es schwierig zu erklären, was es genau ist. Bitcoin ist als Kryptowährung bekannt, die einige Menschen in kurzer Zeit sehr reich gemacht hat. Daher können wir verstehen, warum Blockchain weniger bekannt ist als Bitcoin.
+
+
 Die Leute mögen es lieber, wenn sie über Dinge sprechen, die sie verstehen. So etwas wie Blockhain, das unantastbar oder gekauft ist, ist kein wirklich gutes Thema für die Presse oder als Thema in unseren täglichen Gesprächen. Im Gegensatz dazu kann Bitcoin, das ebenfalls unantastbar ist, zumindest online gekauft werden. Und die Presse würde wirklich schöne Titel dazu finden. Wie zum Beispiel: Dieser 18-jährige Teenager hat dank Bitcoin in 5 Jahren Milliarden von Dollar verdient \cite{Jeff18}, oder der Typ, der nach diesem einen Computer sucht, auf dem er vor 10 Jahren einige Bitcoins geschürft (mined) hat und ihn sehr reich machen würde, wenn er den Computer findet .
 \newline
 
