@@ -13,7 +13,7 @@ Wie bei dem Stromverbrauch lässt sich nicht genau festlegen, wie viele Geräte 
 \newline
 
 Im März 2021 ist eine neue Kryptowährung namens Chia offiziell in den Betrieb genommen worden. Diese Währung hat als Konsens-Algorithmus nicht „Proof of Work“ sondern „Proof of Space“. Bei „Proof of Space“ wird anstatt Rechenleistung, Speicherplatz verwendet. Es wird ein sogenannter Plot erstellt, der schließlich einen gewissen Bereich an speichert in Anspruch nimmt. Ein Plot besteht aus Zahlen, welche anhand von kryptografischen Berechnungen erstellt wurden. Dieser Prozess wird bei Chia als „Plotting“ bezeichnet. So ein Plot kann eine endgültige Größe von 108,9 GB bis zu 949,3 GB \cite{hoffman_plot_2021} besitzen. Dabei handelt es sich um die finalen Werte die nach dem Komprimieren der Daten benötigt werden. Während des Vorganges wird temporär das 2,5-fache an Speicher benötigt. Ein Plot würde beispielsweise während des Vorganges auf 256,6 GB anwachsen und nach dem Komprimieren nur noch 108.9 GB benötigen. Der gesamte Vorgang des Plotting benötigt durchschnittlich 9 bis 12 Stunden \cite{hoffman_chia_2021}. Von dem Netzwerk wird alle 20 Sekunden eine Zahl verlost und der Teilnehmer, welcher diese Zahl in seinem Plot findet ist berechtigt den nächsten Block der Kette zu verifizieren und damit den Gewinn zu bekommen. Das Warten auf eine passende Nummer nennt sich „Farming“ in Chia und ist in Kombination mit Plotting das äquivalent zum Schürfen in Bitcoin.
-\newline
+\clearpage
 
 \begin{table}
 \centering
