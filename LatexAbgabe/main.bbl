@@ -93,6 +93,29 @@
       \endverb
       \keyw{online}
     \endentry
+    \entry{Binance21}{online}{}
+      \field{labelalpha}{21}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extraalpha}{4}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Was ist ein Konsens-Algorithmus?}
+      \field{titleaddon}{Binance Academy}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb (https://academy.binance.com/de/articles/what-is-a-blockchain-consensus-algorithm)
+      \endverb
+      \verb{url}
+      \verb (https://academy.binance.com/de/articles/what-is-a-blockchain-consensus-algorithm)
+      \endverb
+      \keyw{online}
+    \endentry
     \entry{adam_konsensmodelle_2020}{article}{}
       \name{author}{1}{}{%
         {{hash=4873d367e483beea480acac29e1e6615}{%
@@ -1193,6 +1216,36 @@
       \verb https://docs.google.com/spreadsheets/d/1ciqka_-t0zDSOVyB4yhVZBfLFGKwJMlQ2EwA0CB1ljM/edit
       \endverb
     \endentry
+    \entry{CW18}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30fc317dae50f72de250e49429c49501}{%
+           family={Rotter},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{30fc317dae50f72de250e49429c49501}
+      \strng{fullhash}{30fc317dae50f72de250e49429c49501}
+      \strng{bibnamehash}{30fc317dae50f72de250e49429c49501}
+      \strng{authorbibnamehash}{30fc317dae50f72de250e49429c49501}
+      \strng{authornamehash}{30fc317dae50f72de250e49429c49501}
+      \strng{authorfullhash}{30fc317dae50f72de250e49429c49501}
+      \field{labelalpha}{Rot18}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Smart Contracts via Blockchain – Chancen und Grenzen}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.computerwoche.de/a/smart-contracts-via-blockchain-chancen-und-grenzen,3331967
+      \endverb
+      \verb{url}
+      \verb https://www.computerwoche.de/a/smart-contracts-via-blockchain-chancen-und-grenzen,3331967
+      \endverb
+    \endentry
     \entry{schar_understanding_2020}{article}{}
       \name{author}{1}{}{%
         {{hash=e71f1627560989b3c9412016047f4f6e}{%
@@ -1622,7 +1675,6 @@
       \field{labelalpha}{Vri19}
       \field{sortinit}{V}
       \field{sortinithash}{02432525618c08e2b03cac47c19764af}
-      \field{extraalpha}{1}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{25424351}
@@ -1630,7 +1682,7 @@
       \field{month}{4}
       \field{number}{4}
       \field{title}{Renewable Energy Will Not Solve Bitcoin’s Sustainability Problem}
-      \field{urlday}{24}
+      \field{urlday}{19}
       \field{urlmonth}{5}
       \field{urlyear}{2021}
       \field{volume}{3}
@@ -1646,56 +1698,6 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S254243511930087X
-      \endverb
-    \endentry
-    \entry{vries_renewable_2019}{article}{}
-      \name{author}{1}{}{%
-        {{hash=54070f0704c7007af5cb9964d980c859}{%
-           family={Vries},
-           familyi={V\bibinitperiod},
-           given={Alex\bibnamedelima de},
-           giveni={A\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{54070f0704c7007af5cb9964d980c859}
-      \strng{fullhash}{54070f0704c7007af5cb9964d980c859}
-      \strng{bibnamehash}{54070f0704c7007af5cb9964d980c859}
-      \strng{authorbibnamehash}{54070f0704c7007af5cb9964d980c859}
-      \strng{authornamehash}{54070f0704c7007af5cb9964d980c859}
-      \strng{authorfullhash}{54070f0704c7007af5cb9964d980c859}
-      \field{labelalpha}{Vri19}
-      \field{sortinit}{V}
-      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
-      \field{extraalpha}{2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2542-4785, 2542-4351}
-      \field{journaltitle}{Joule}
-      \field{month}{4}
-      \field{note}{Publisher: Elsevier}
-      \field{number}{4}
-      \field{title}{Renewable Energy Will Not Solve Bitcoin’s Sustainability Problem}
-      \field{urlday}{4}
-      \field{urlmonth}{6}
-      \field{urlyear}{2021}
-      \field{volume}{3}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{893\bibrangedash 898}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1016/j.joule.2019.02.007
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/samsc/Zotero/storage/DNMWU9AZ/Vries - 2019 - Renewable Energy Will Not Solve Bitcoin’s Sustaina.pdf:application/pdf;Snapshot:/Users/samsc/Zotero/storage/QPNDDV5Q/S2542-4351(19)30087-X.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cell.com/joule/abstract/S2542-4351(19)30087-X
-      \endverb
-      \verb{url}
-      \verb https://www.cell.com/joule/abstract/S2542-4351(19)30087-X
       \endverb
     \endentry
     \entry{waters_musk_2021}{online}{}
@@ -1740,6 +1742,7 @@
       \keyw{online}
     \endentry
   \enddatalist
+  \missing{vries_renewable_2019}
 \endrefsection
 \endinput
 

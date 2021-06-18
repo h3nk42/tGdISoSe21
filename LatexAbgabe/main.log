@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  12 JUN 2021 13:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.3.20)  18 JUN 2021 08:30
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1887,6 +1887,13 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Entry 'bitcoinWiki' (references/references.bib): Inv
 alid format '2021-05-2' of date field 'urldate' - ignoring.
 
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                vries_renewable_2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 )
 Package biblatex Info: Reference section=0 on input line 41.
 Package biblatex Info: Reference segment=0 on input line 41.
@@ -2031,7 +2038,7 @@ chapter 2.
 
 
 ]
-<nachhaltig.jpg, id=83, 1185.96924pt x 724.55307pt>
+<nachhaltig.jpg, id=82, 1185.96924pt x 724.55307pt>
 File: nachhaltig.jpg Graphic file (type jpg)
 <use nachhaltig.jpg>
 Package luatex.def Info: nachhaltig.jpg  used on input line 7.
@@ -2054,7 +2061,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
  []
 
 [5]
-<peer2peer.jpg, id=117, 853.1875pt x 346.29375pt>
+<peer2peer.jpg, id=116, 853.1875pt x 346.29375pt>
 File: peer2peer.jpg Graphic file (type jpg)
 <use peer2peer.jpg>
 Package luatex.def Info: peer2peer.jpg  used on input line 27.
@@ -2064,55 +2071,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-<ProofOfWorkVSProfOfStake.jpg, id=122, 682.9515pt x 728.7225pt>
-File: ProofOfWorkVSProfOfStake.jpg Graphic file (type jpg)
-<use ProofOfWorkVSProfOfStake.jpg>
-Package luatex.def Info: ProofOfWorkVSProfOfStake.jpg  used on input line 37.
-(luatex.def)             Requested size: 284.52756pt x 303.59285pt.
 [6
 
-<./peer2peer.jpg>] [7] [8<./ProofOfWorkVSProfOfStake.jpg>]
+<./peer2peer.jpg>] [7]
+<ProofOfWorkVSProfOfStake.jpg, id=138, 682.9515pt x 728.7225pt>
+File: ProofOfWorkVSProfOfStake.jpg Graphic file (type jpg)
+<use ProofOfWorkVSProfOfStake.jpg>
+Package luatex.def Info: ProofOfWorkVSProfOfStake.jpg  used on input line 60.
+(luatex.def)             Requested size: 455.24408pt x 485.76192pt.
+ [8] [9<./ProofOfWorkVSProfOfStake.jpg>]
 chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
-[9
+[10
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-[10] [11] [12] [13]
-Overfull \hbox (13.09943pt too wide) in paragraph at lines 68--92
+[11] [12] [13] [14]
+Overfull \hbox (13.09943pt too wide) in paragraph at lines 91--115
  [][] 
  []
 
-[14
+[15
 
-] [15
+] [16
 
-] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+]
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
 
  []
 
-[17]) [18] (./chapter/Evaluation.tex
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
+ []
+
+[18]) [19] (./chapter/Evaluation.tex
 chapter 5.
-) [19
+) [20
 
 
 
@@ -2204,7 +2212,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 
@@ -2212,26 +2228,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 45544 strings out of 481365
+ 45549 strings out of 481365
  100000,1977958 words of node,token memory allocated
- 1346 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 114 attribute, 94 glue_spe
-c, 59 attribute_list, 5 write, 48 pdf_action nodes
-   avail lists: 1:5,2:1669,3:284,4:82,5:636,6:160,7:10268,8:169,9:317,10:29,11:1
-028
- 60746 multiletter control sequences out of 65536+600000
+ 1370 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 118 attribute, 94 glue_spe
+c, 61 attribute_list, 5 write, 50 pdf_action nodes
+   avail lists: 1:4,2:1568,3:284,4:82,5:636,6:151,7:10256,8:169,9:317,10:29,11:1
+027
+ 60749 multiletter control sequences out of 65536+600000
  54 fonts using 5387835 bytes
- 69i,20n,85p,10117b,3003s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 69i,20n,85p,10117b,3001s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pub
 lic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.p
 fb>
-Output written on main.pdf (30 pages, 728699 bytes).
+Output written on main.pdf (31 pages, 730881 bytes).
 
-PDF statistics: 528 PDF objects out of 1000 (max. 8388607)
- 478 compressed objects within 5 object streams
- 97 named destinations out of 1000 (max. 131072)
+PDF statistics: 539 PDF objects out of 1000 (max. 8388607)
+ 488 compressed objects within 5 object streams
+ 99 named destinations out of 1000 (max. 131072)
  160 words of extra memory for PDF output out of 10000 (max. 100000000)
 
