@@ -2241,6 +2241,10 @@
     <bcf:citekey order="57">lieferkette</bcf:citekey>
     <bcf:citekey order="58">vechain</bcf:citekey>
     <bcf:citekey order="59">veDoc</bcf:citekey>
+    <bcf:citekey order="60">Baralex20</bcf:citekey>
+    <bcf:citekey order="61">bdew20</bcf:citekey>
+    <bcf:citekey order="62">Enbw21</bcf:citekey>
+    <bcf:citekey order="63">M2M</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">

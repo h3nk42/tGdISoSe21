@@ -1,24 +1,23 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[69] biber:322> INFO - === Fr Jun 18, 2021, 08:30:21
-[82] Biber.pm:415> INFO - Reading 'main.bcf'
-[152] Biber.pm:943> INFO - Found 44 citekeys in bib section 0
-[164] Biber.pm:4256> INFO - Processing section 0
-[165] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
-[165] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
-[174] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
-[178] bibtex.pm:1653> INFO - LaTeX decoding ...
-[263] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
-[268] Utils.pm:293> WARN - Duplicate entry key: 'noauthor_coindesk_2021' in file 'references/references.bib', skipping ...
-[360] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
-[504] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_teyd/references.bib_316542.utf8, line 207, warning: 57 characters of junk seen at toplevel
-[504] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_teyd/references.bib_316542.utf8, line 307, warning: 111 characters of junk seen at toplevel
-[504] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_teyd/references.bib_316542.utf8, line 603, warning: 110 characters of junk seen at toplevel
-[504] Utils.pm:293> WARN - I didn't find a database entry for 'vries_renewable_2019' (section 0)
-[563] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[563] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[564] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[564] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[610] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[637] bbl.pm:755> INFO - Output to main.bbl
-[637] Biber.pm:128> INFO - WARNINGS: 6
+[52] biber:322> INFO - === So Jun 20, 2021, 13:34:04
+[62] Biber.pm:415> INFO - Reading 'main.bcf'
+[114] Biber.pm:943> INFO - Found 47 citekeys in bib section 0
+[124] Biber.pm:4256> INFO - Processing section 0
+[124] Utils.pm:75> INFO - Globbing data source 'references/references.bib'
+[125] Utils.pm:91> INFO - Globbed data source 'references/references.bib' to references/references.bib
+[132] Biber.pm:4455> INFO - Looking for bibtex format file 'references/references.bib' for section 0
+[135] bibtex.pm:1653> INFO - LaTeX decoding ...
+[200] bibtex.pm:1471> INFO - Found BibTeX data source 'references/references.bib'
+[202] Utils.pm:293> WARN - Duplicate entry key: 'noauthor_coindesk_2021' in file 'references/references.bib', skipping ...
+[263] Utils.pm:293> WARN - Entry 'bitcoinWiki' (references/references.bib): Invalid format '2021-05-2' of date field 'urldate' - ignoring
+[363] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_xG7e/references.bib_35619.utf8, line 207, warning: 57 characters of junk seen at toplevel
+[363] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_xG7e/references.bib_35619.utf8, line 307, warning: 111 characters of junk seen at toplevel
+[363] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_xG7e/references.bib_35619.utf8, line 602, warning: 110 characters of junk seen at toplevel
+[414] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[414] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[414] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[414] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[449] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[466] bbl.pm:755> INFO - Output to main.bbl
+[467] Biber.pm:128> INFO - WARNINGS: 5

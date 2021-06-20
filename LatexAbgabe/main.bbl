@@ -67,7 +67,6 @@
       \verb{url}
       \verb (https://trends.google.com/trends/explore?q=Bitcoin,Blockchain)
       \endverb
-      \keyw{online}
     \endentry
     \entry{Google_google_2021}{online}{}
       \field{labelalpha}{21}
@@ -114,7 +113,6 @@
       \verb{url}
       \verb (https://academy.binance.com/de/articles/what-is-a-blockchain-consensus-algorithm)
       \endverb
-      \keyw{online}
     \endentry
     \entry{adam_konsensmodelle_2020}{article}{}
       \name{author}{1}{}{%
@@ -300,6 +298,61 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1364032118307184
       \endverb
       \keyw{Blockchain,Distributed ledger,Energy decentralisation,Peer-to-peer energy trading,Prosumer,Renewable energy}
+    \endentry
+    \entry{Baralex20}{book}{}
+      \name{author}{1}{}{%
+        {{hash=28b43b0187b39acedf9289ec3466c066}{%
+           family={Bartek\bibnamedelima Mika},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Alexander\bibnamedelima Goudz},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{28b43b0187b39acedf9289ec3466c066}
+      \strng{fullhash}{28b43b0187b39acedf9289ec3466c066}
+      \strng{bibnamehash}{28b43b0187b39acedf9289ec3466c066}
+      \strng{authorbibnamehash}{28b43b0187b39acedf9289ec3466c066}
+      \strng{authornamehash}{28b43b0187b39acedf9289ec3466c066}
+      \strng{authorfullhash}{28b43b0187b39acedf9289ec3466c066}
+      \field{labelalpha}{Bar20}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{langid}{german}
+      \field{title}{Blockchain-Technologie in der Energiewirtschaft, Blockchain als Treiber der Energiewende}
+      \field{year}{2020}
+    \endentry
+    \entry{bdew20}{article}{}
+      \name{author}{1}{}{%
+        {{hash=86db357b22c47f3150c3e974ff249f09}{%
+           family={BDEW},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{86db357b22c47f3150c3e974ff249f09}
+      \strng{fullhash}{86db357b22c47f3150c3e974ff249f09}
+      \strng{bibnamehash}{86db357b22c47f3150c3e974ff249f09}
+      \strng{authorbibnamehash}{86db357b22c47f3150c3e974ff249f09}
+      \strng{authornamehash}{86db357b22c47f3150c3e974ff249f09}
+      \strng{authorfullhash}{86db357b22c47f3150c3e974ff249f09}
+      \field{labelalpha}{BDE20}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Smart Metering: Was Sie über intelligente Messysteme wissen sollten}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bdew.de/energie/digitalisierung/welche-rolle-spielen-smart-meter-fuer-die-digitalisierung-der-energiewende/
+      \endverb
+      \verb{url}
+      \verb https://www.bdew.de/energie/digitalisierung/welche-rolle-spielen-smart-meter-fuer-die-digitalisierung-der-energiewende/
+      \endverb
     \endentry
     \entry{blockchaincom_statistic_nodate}{misc}{}
       \name{author}{1}{}{%
@@ -1022,6 +1075,36 @@
       \endverb
       \keyw{online}
     \endentry
+    \entry{M2M}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5461aa7e90a860a08f2048f3659c70db}{%
+           family={Kommunikation},
+           familyi={K\bibinitperiod},
+           given={M2M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5461aa7e90a860a08f2048f3659c70db}
+      \strng{fullhash}{5461aa7e90a860a08f2048f3659c70db}
+      \strng{bibnamehash}{5461aa7e90a860a08f2048f3659c70db}
+      \strng{authorbibnamehash}{5461aa7e90a860a08f2048f3659c70db}
+      \strng{authornamehash}{5461aa7e90a860a08f2048f3659c70db}
+      \strng{authorfullhash}{5461aa7e90a860a08f2048f3659c70db}
+      \field{labelalpha}{Kom21}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{MACHINE-TO-MACHINE-PAYMENT}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.m2m-kommunikation.de/beratung/machine-to-machine-payment.html
+      \endverb
+      \verb{url}
+      \verb https://www.m2m-kommunikation.de/beratung/machine-to-machine-payment.html
+      \endverb
+    \endentry
     \entry{catalonia}{online}{}
       \name{author}{1}{}{%
         {{hash=21e8a55a9d02014f3045096b745d6fae}{%
@@ -1550,6 +1633,36 @@
       \field{title}{Allgemeine Ökologie, Band 1: Organismus und Umwelt}
       \field{year}{2005}
     \endentry
+    \entry{Enbw21}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5b8045da3821ad7d80cc06c7ab782138}{%
+           family={Unternehmen},
+           familyi={U\bibinitperiod},
+           given={ENBW},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b8045da3821ad7d80cc06c7ab782138}
+      \strng{fullhash}{5b8045da3821ad7d80cc06c7ab782138}
+      \strng{bibnamehash}{5b8045da3821ad7d80cc06c7ab782138}
+      \strng{authorbibnamehash}{5b8045da3821ad7d80cc06c7ab782138}
+      \strng{authornamehash}{5b8045da3821ad7d80cc06c7ab782138}
+      \strng{authorfullhash}{5b8045da3821ad7d80cc06c7ab782138}
+      \field{labelalpha}{Unt21}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Blockchain: Technologie mit Zukunft}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.enbw.com/unternehmen/presse/artikel/blockchain-technologie-mit-zukunft.html#:~:text=Die%20Energielandschaft%20wird%20immer%20kleinteiliger,Instanz%20möglich%20und%20jederzeit%20nachweisbar.
+      \endverb
+      \verb{url}
+      \verb https://www.enbw.com/unternehmen/presse/artikel/blockchain-technologie-mit-zukunft.html#:~:text=Die%20Energielandschaft%20wird%20immer%20kleinteiliger,Instanz%20m%C3%B6glich%20und%20jederzeit%20nachweisbar.
+      \endverb
+    \endentry
     \entry{p2p}{online}{}
       \name{author}{1}{}{%
         {{hash=92ac52c3a345d6bfb9ab2fabd550a6ce}{%
@@ -1742,7 +1855,6 @@
       \keyw{online}
     \endentry
   \enddatalist
-  \missing{vries_renewable_2019}
 \endrefsection
 \endinput
 
